@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:48.760-04:00</Created>
+        <LastChange>2019-07-30T20:53:49.896+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802947" pageNr="79" tsid="13225310" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=MCROTEOKQNESNJXCKTOVECSQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EXOUYPINJBPWNZWRPFONBQAL" imageId="4155721"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_35R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110937125" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="291,1676 291,3872 2018,3872 2018,1676"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="340,1778 423,1778 506,1778 589,1779 672,1780 755,1782 838,1784 921,1786 1004,1789 1087,1791 1171,1793 1254,1795 1337,1797 1420,1799 1503,1800 1586,1801 1669,1801 1752,1800 1835,1799 1918,1798 2002,1795 2002,1693 1918,1696 1835,1697 1752,1698 1669,1699 1586,1699 1503,1698 1420,1697 1337,1695 1254,1693 1171,1691 1087,1689 1004,1687 921,1684 838,1682 755,1680 672,1678 589,1677 506,1676 423,1676 340,1676"/>
+                <Baseline points="340,1744 423,1744 506,1744 589,1745 672,1746 755,1748 838,1750 921,1752 1004,1755 1087,1757 1171,1759 1254,1761 1337,1763 1420,1765 1503,1766 1586,1767 1669,1767 1752,1766 1835,1765 1918,1764 2002,1761"/>
+                <TextEquiv>
+                    <Unicode>ꝺomine animaꝫ meaꝫ quia pecca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;} abbrev {offset:8; length:3;expansion:psalmus;} rubrication {offset:8; length:3;} abbrev {offset:12; length:5;expansion:beatus;} abbrev {offset:21; length:1;expansion:antiphonus;} rubrication {offset:21; length:1;} Drop-Capital {offset:23; length:1;}">
+                <Coords points="322,2199 364,2201 407,2202 450,2204 493,2205 536,2207 578,2208 621,2210 664,2211 707,2212 750,2214 792,2214 835,2216 878,2217 921,2217 964,2218 1006,2218 1049,2219 1092,2219 1135,2219 1976,2222 1976,2102 1135,2099 1092,2099 1049,2099 1006,2098 964,2098 921,2097 878,2097 835,2096 792,2094 750,2094 707,2092 664,2091 621,2090 578,2088 536,2087 493,2085 450,2084 407,2082 364,2081 322,2079"/>
+                <Baseline points="322,2159 364,2161 407,2162 450,2164 493,2165 536,2167 578,2168 621,2170 664,2171 707,2172 750,2174 792,2174 835,2176 878,2177 921,2177 964,2178 1006,2178 1049,2179 1092,2179 1135,2179 1178,2179"/>
+                <TextEquiv>
+                    <Unicode>ui tibi p̄s Beatꝰ q' a Sitiuit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:2;} abbrev {offset:13; length:4;expansion:deum;}">
+                <Coords points="308,2602 393,2606 479,2608 564,2611 650,2613 735,2614 821,2616 906,2617 992,2618 1077,2618 1163,2619 1248,2620 1334,2620 1419,2621 1505,2622 1590,2623 1676,2624 1761,2625 1847,2626 1932,2628 2018,2630 2018,2510 1932,2508 1847,2506 1761,2505 1676,2504 1590,2503 1505,2502 1419,2501 1334,2500 1248,2500 1163,2499 1077,2498 992,2498 906,2497 821,2496 735,2494 650,2493 564,2491 479,2488 393,2486 308,2482"/>
+                <Baseline points="308,2562 393,2566 479,2568 564,2571 650,2573 735,2574 821,2576 906,2577 992,2578 1077,2578 1163,2579 1248,2580 1334,2580 1419,2581 1505,2582 1590,2583 1676,2584 1761,2585 1847,2586 1932,2588 2018,2590"/>
+                <TextEquiv>
+                    <Unicode>anima mea aꝺ ꝺeū uiuuꝫ quanꝺo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:3;} rubrication {offset:16; length:1;} rubrication {offset:19; length:1;}">
+                <Coords points="304,3016 393,3019 482,3022 572,3025 661,3027 751,3028 840,3030 929,3031 1019,3031 1108,3032 1198,3032 1287,3032 1377,3033 1466,3033 1555,3033 1645,3034 1734,3034 1824,3036 1913,3037 2003,3039 2003,2928 1913,2926 1824,2925 1734,2923 1645,2923 1555,2922 1466,2922 1377,2922 1287,2921 1198,2921 1108,2921 1019,2920 929,2920 840,2919 751,2917 661,2916 572,2914 482,2911 393,2908 304,2905"/>
+                <Baseline points="304,2979 393,2982 482,2985 572,2988 661,2990 751,2991 840,2993 929,2994 1019,2994 1108,2995 1198,2995 1287,2995 1377,2996 1466,2996 1555,2996 1645,2997 1734,2997 1824,2999 1913,3000 2003,3002"/>
+                <TextEquiv>
+                    <Unicode>ueniaꝫ et appare_bo_ante faciem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;} abbrev {offset:7; length:3;expansion:psalmus;} rubrication {offset:7; length:3;} abbrev {offset:11; length:6;expansion:Quemadmodum?;}">
+                <Coords points="291,3439 374,3442 458,3445 541,3447 625,3449 708,3450 792,3451 875,3452 959,3453 1042,3454 1126,3454 1209,3454 1293,3454 1376,3454 1460,3454 1543,3454 1627,3454 1710,3454 1794,3454 1877,3454 1961,3454 1961,3334 1877,3334 1794,3334 1710,3334 1627,3334 1543,3334 1460,3334 1376,3334 1293,3334 1209,3334 1126,3334 1042,3334 959,3333 875,3332 792,3331 708,3330 625,3329 541,3327 458,3325 374,3322 291,3319"/>
+                <Baseline points="291,3399 374,3402 458,3405 541,3407 625,3409 708,3410 792,3411 875,3412 959,3413 1042,3414 1126,3414 1209,3414 1293,3414 1376,3414 1460,3414 1543,3414 1627,3414 1710,3414 1794,3414 1877,3414 1961,3414"/>
+                <TextEquiv>
+                    <Unicode>ꝺomini p̄s Quēaꝺ Ꝟ Aet̄ꝺa beſti?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:5;} abbrev {offset:0; length:9;expansion:Peccantem;} rubrication {offset:0; length:1;} Drop-Capital {offset:0; length:1;} rubrication {offset:17; length:1;} rubrication {offset:21; length:1;}">
+                <Coords points="290,3847 583,3857 655,3858 727,3859 799,3859 870,3860 942,3860 1014,3860 1086,3859 1157,3859 1229,3859 1301,3859 1373,3859 1444,3860 1516,3860 1588,3861 1660,3862 1731,3864 1803,3866 1875,3869 2019,3872 2019,3752 1875,3749 1803,3746 1731,3744 1660,3742 1588,3741 1516,3740 1444,3740 1373,3739 1301,3739 1229,3739 1157,3739 1086,3739 1014,3740 942,3740 870,3740 799,3739 727,3739 655,3738 583,3737 290,3727"/>
+                <Baseline points="512,3816 583,3817 655,3818 727,3819 799,3819 870,3820 942,3820 1014,3820 1086,3819 1157,3819 1229,3819 1301,3819 1373,3819 1444,3820 1516,3820 1588,3821 1660,3822 1731,3824 1803,3826 1875,3829 1947,3832"/>
+                <TextEquiv>
+                    <Unicode>Peccāteꝫ me coti_ꝺie_et no ?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ꝺomine animaꝫ meaꝫ quia pecca
+ui tibi p̄s Beatꝰ q' a Sitiuit
+anima mea aꝺ ꝺeū uiuuꝫ quanꝺo
+ueniaꝫ et appare_bo_ante faciem
+ꝺomini p̄s Quēaꝺ Ꝟ Aet̄ꝺa beſti?
+Peccāteꝫ me coti_ꝺie_et no ?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

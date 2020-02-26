@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:49.465-04:00</Created>
+        <LastChange>2019-10-22T17:58:56.138+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802968" pageNr="100" tsid="17534501" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=ZUPQTNLGREBCBKNXKATWJALI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQKDNAQPTSNABHZPBHNKWCMG" imageId="4155742"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_43R.JPG" imageWidth="5184" imageHeight="3456">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110942336" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="346,1033 346,3797 2352,3797 2352,1033"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="378,1297 862,1303 933,1310 1004,1315 1075,1319 1146,1323 1217,1325 1288,1327 1359,1328 1430,1328 1501,1328 1571,1327 1642,1327 1713,1325 1784,1324 1855,1323 1926,1322 1997,1321 2068,1320 2139,1320 2210,1320 2210,1202 2139,1202 2068,1202 1997,1203 1926,1204 1855,1205 1784,1206 1713,1207 1642,1209 1571,1209 1501,1210 1430,1210 1359,1210 1288,1209 1217,1207 1146,1205 1075,1201 1004,1197 933,1192 862,1185 378,1179"/>
+                <Baseline points="792,1256 862,1264 933,1271 1004,1276 1075,1280 1146,1284 1217,1286 1288,1288 1359,1289 1430,1289 1501,1289 1571,1288 1642,1288 1713,1286 1784,1285 1855,1284 1926,1283 1997,1282 2068,1281 2139,1281 2210,1281"/>
+                <TextEquiv>
+                    <Unicode>paſ? @ ſepul tus eſt @ ?su rre yit terra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:1;}">
+                <Coords points="349,1803 449,1803 549,1803 649,1803 749,1802 849,1802 949,1802 1050,1801 1150,1800 1250,1800 1350,1799 1450,1798 1550,1798 1650,1797 1751,1796 1851,1795 1951,1794 2051,1794 2151,1793 2251,1792 2352,1791 2352,1665 2251,1666 2151,1667 2051,1668 1951,1668 1851,1669 1751,1670 1650,1671 1550,1672 1450,1672 1350,1673 1250,1674 1150,1674 1050,1675 949,1676 849,1676 749,1676 649,1677 549,1677 449,1677 349,1677"/>
+                <Baseline points="349,1761 449,1761 549,1761 649,1761 749,1760 849,1760 949,1760 1050,1759 1150,1758 1250,1758 1350,1757 1450,1756 1550,1756 1650,1755 1751,1754 1851,1753 1951,1752 2051,1752 2151,1751 2251,1750 2352,1749"/>
+                <TextEquiv>
+                    <Unicode>ꝺie secūdū ?rituras @ aſrenꝺit ī celum seꝺet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:2;}">
+                <Coords points="346,2312 438,2309 531,2306 623,2304 716,2303 809,2303 901,2303 994,2304 1087,2305 1179,2306 1272,2307 1365,2309 1457,2310 1550,2311 1643,2312 1735,2313 1828,2313 1921,2312 2013,2311 2106,2310 2199,2307 2199,2181 2106,2184 2013,2185 1921,2186 1828,2187 1735,2187 1643,2186 1550,2185 1457,2184 1365,2183 1272,2181 1179,2180 1087,2179 994,2178 901,2177 809,2177 716,2177 623,2178 531,2180 438,2183 346,2186"/>
+                <Baseline points="346,2270 438,2267 531,2264 623,2262 716,2261 809,2261 901,2261 994,2262 1087,2263 1179,2264 1272,2265 1365,2267 1457,2268 1550,2269 1643,2270 1735,2271 1828,2271 1921,2270 2013,2269 2106,2268 2199,2265"/>
+                <TextEquiv>
+                    <Unicode>aꝺꝺe y terā pat?s @ iterū vē turus eſt aī gloria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:3;}">
+                <Coords points="360,2811 456,2808 552,2805 648,2804 744,2803 841,2803 937,2804 1033,2805 1129,2806 1225,2808 1322,2809 1418,2811 1514,2812 1610,2812 1706,2813 1803,2813 1899,2812 1995,2810 2091,2806 2187,2802 2284,2797 2284,2677 2187,2682 2091,2686 1995,2690 1899,2692 1803,2693 1706,2693 1610,2692 1514,2692 1418,2691 1322,2689 1225,2688 1129,2686 1033,2685 937,2684 841,2683 744,2683 648,2684 552,2685 456,2688 360,2691"/>
+                <Baseline points="360,2771 456,2768 552,2765 648,2764 744,2763 841,2763 937,2764 1033,2765 1129,2766 1225,2768 1322,2769 1418,2771 1514,2772 1610,2772 1706,2773 1803,2773 1899,2772 1995,2770 2091,2766 2187,2762 2284,2757"/>
+                <TextEquiv>
+                    <Unicode>Juꝺicare viuos @mortuos culus Rgm nō erit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:4;}">
+                <Coords points="362,3293 413,3293 465,3293 517,3294 568,3295 620,3296 672,3297 723,3299 775,3301 827,3303 879,3304 930,3306 982,3307 1034,3307 1085,3307 1137,3307 1189,3306 1240,3304 1292,3301 1344,3298 2305,3278 2305,3152 1344,3172 1292,3175 1240,3178 1189,3180 1137,3181 1085,3181 1034,3181 982,3181 930,3180 879,3178 827,3177 775,3175 723,3173 672,3171 620,3170 568,3169 517,3168 465,3167 413,3167 362,3167"/>
+                <Baseline points="362,3251 413,3251 465,3251 517,3252 568,3253 620,3254 672,3255 723,3257 775,3259 827,3261 879,3262 930,3264 982,3265 1034,3265 1085,3265 1137,3265 1189,3264 1240,3262 1292,3259 1344,3256 1396,3252"/>
+                <TextEquiv>
+                    <Unicode>fimit @ in ſpiri tumſtīn ꝺom nu nū</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:5;}">
+                <Coords points="378,3761 514,3765 575,3768 635,3772 696,3775 757,3777 817,3779 878,3781 938,3783 999,3784 1060,3784 1120,3784 1181,3784 1241,3783 1302,3781 1363,3779 1423,3776 1484,3772 1544,3769 1605,3764 2281,3764 2281,3649 1605,3649 1544,3654 1484,3657 1423,3661 1363,3664 1302,3666 1241,3668 1181,3669 1120,3669 1060,3669 999,3669 938,3668 878,3666 817,3664 757,3662 696,3660 635,3657 575,3653 514,3650 378,3646"/>
+                <Baseline points="454,3723 514,3727 575,3730 635,3734 696,3737 757,3739 817,3741 878,3743 938,3745 999,3746 1060,3746 1120,3746 1181,3746 1241,3745 1302,3743 1363,3741 1423,3738 1484,3734 1544,3731 1605,3726 1666,3720"/>
+                <TextEquiv>
+                    <Unicode>@ viuificantē que y patre filio q proçedit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>paſ? @ ſepul tus eſt @ ?su rre yit terra
+ꝺie secūdū ?rituras @ aſrenꝺit ī celum seꝺet
+aꝺꝺe y terā pat?s @ iterū vē turus eſt aī gloria
+Juꝺicare viuos @mortuos culus Rgm nō erit
+fimit @ in ſpiri tumſtīn ꝺom nu nū
+@ viuificantē que y patre filio q proçedit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
