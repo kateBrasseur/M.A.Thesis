@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:46.820-04:00</Created>
+        <LastChange>2019-07-10T17:56:23.037+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802840" pageNr="30" tsid="12643422" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=NAMVGNEZBGXGQLISDGTLHKIY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GYQNZUOGUHHRIIGICEWQODQI" imageId="4155669"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_15V.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110925255" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1030,1332 1030,4054 3215,4054 3215,1332"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} abbrev {offset:23; length:4;expansion:Sicut;} rubrication {offset:23; length:1;}">
+                <Coords points="1072,1480 1150,1483 1228,1486 1306,1487 1384,1487 1463,1487 1541,1486 1619,1485 1697,1484 1775,1483 1854,1483 1932,1483 2010,1483 2088,1485 2166,1487 2245,1491 2323,1496 2401,1503 2479,1511 2557,1521 3174,1545 3174,1397 2557,1373 2479,1363 2401,1355 2323,1348 2245,1343 2166,1339 2088,1337 2010,1335 1932,1335 1854,1335 1775,1335 1697,1336 1619,1337 1541,1338 1463,1339 1384,1339 1306,1339 1228,1338 1150,1335 1072,1332"/>
+                <Baseline points="1072,1431 1150,1434 1228,1437 1306,1438 1384,1438 1463,1438 1541,1437 1619,1436 1697,1435 1775,1434 1854,1434 1932,1434 2010,1434 2088,1436 2166,1438 2245,1442 2323,1447 2401,1454 2479,1462 2557,1472 2636,1485"/>
+                <TextEquiv>
+                    <Unicode>lio et spiritui sancto Sic̄ erat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1053,1994 1161,1995 1269,1997 1377,1998 1485,2000 1593,2001 1701,2002 1809,2004 1917,2005 2025,2007 2134,2009 2242,2011 2350,2013 2458,2015 2566,2018 2674,2021 2782,2024 2890,2028 2998,2032 3106,2037 3215,2042 3215,1894 3106,1889 2998,1884 2890,1880 2782,1876 2674,1873 2566,1870 2458,1867 2350,1865 2242,1863 2134,1861 2025,1859 1917,1857 1809,1856 1701,1854 1593,1853 1485,1852 1377,1850 1269,1849 1161,1847 1053,1846"/>
+                <Baseline points="1053,1945 1161,1946 1269,1948 1377,1949 1485,1951 1593,1952 1701,1953 1809,1955 1917,1956 2025,1958 2134,1960 2242,1962 2350,1964 2458,1966 2566,1969 2674,1972 2782,1975 2890,1979 2998,1983 3106,1988 3215,1993"/>
+                <TextEquiv>
+                    <Unicode>in pꝛincipio et nunc et semper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} abbrev {offset:0; length:4;expansion:tonus;} rubrication {offset:0; length:4;}">
+                <Coords points="2941,2326 2967,2325 2993,2325 3019,2326 3045,2327 3071,2329 3098,2331 3098,2184 3071,2182 3045,2180 3019,2179 2993,2178 2967,2178 2941,2179"/>
+                <Baseline points="2941,2277 2967,2276 2993,2276 3019,2277 3045,2278 3071,2280 3098,2282"/>
+                <TextEquiv>
+                    <Unicode>tonꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;} abbrev {offset:13; length:9;expansion:seculorum;} abbrev {offset:23; length:4;expansion:Amen;} abbrev {offset:28; length:5;expansion:quintus?;} rubrication {offset:28; length:5;}">
+                <Coords points="1063,2494 1156,2496 1250,2497 1344,2499 1438,2500 1531,2502 1625,2504 1719,2506 1813,2508 1906,2510 2000,2512 2094,2514 2188,2516 2281,2517 2375,2519 2469,2520 2563,2522 2656,2523 2750,2524 2844,2524 3170,2527 3170,2379 2844,2376 2750,2376 2656,2375 2563,2374 2469,2372 2375,2371 2281,2369 2188,2368 2094,2366 2000,2364 1906,2362 1813,2360 1719,2358 1625,2356 1531,2354 1438,2352 1344,2351 1250,2349 1156,2348 1063,2346"/>
+                <Baseline points="1063,2445 1156,2447 1250,2448 1344,2450 1438,2451 1531,2453 1625,2455 1719,2457 1813,2459 1906,2461 2000,2463 2094,2465 2188,2467 2281,2468 2375,2470 2469,2471 2563,2473 2656,2474 2750,2475 2844,2475 2938,2476"/>
+                <TextEquiv>
+                    <Unicode>et in secula seculoꝛuꝫ Am̄e q̄ntꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;} rubrication {offset:0; length:1;} rubrication {offset:7; length:5;}">
+                <Coords points="1039,2995 2148,3034 2202,3035 2257,3036 2311,3037 2366,3038 2420,3039 2474,3040 2529,3040 2583,3041 2638,3041 2692,3042 2746,3042 2801,3042 2855,3042 2910,3042 2964,3041 3018,3041 3073,3040 3127,3040 3182,3039 3182,2891 3127,2892 3073,2892 3018,2893 2964,2893 2910,2894 2855,2894 2801,2894 2746,2894 2692,2894 2638,2893 2583,2893 2529,2892 2474,2892 2420,2891 2366,2890 2311,2889 2257,2888 2202,2887 2148,2886 1039,2847"/>
+                <Baseline points="2094,2983 2148,2985 2202,2986 2257,2987 2311,2988 2366,2989 2420,2990 2474,2991 2529,2991 2583,2992 2638,2992 2692,2993 2746,2993 2801,2993 2855,2993 2910,2993 2964,2992 3018,2992 3073,2991 3127,2991 3182,2990"/>
+                <TextEquiv>
+                    <Unicode>Venite _..._ exultemus ꝺo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="1030,3510 1133,3513 1237,3515 1341,3518 1445,3521 1549,3524 1652,3527 1756,3529 1860,3532 1964,3534 2068,3537 2171,3539 2275,3541 2379,3542 2483,3543 2587,3543 2690,3543 2794,3543 2898,3541 3002,3539 3106,3537 3106,3389 3002,3391 2898,3393 2794,3395 2690,3395 2587,3395 2483,3395 2379,3394 2275,3393 2171,3391 2068,3389 1964,3386 1860,3384 1756,3381 1652,3379 1549,3376 1445,3373 1341,3370 1237,3367 1133,3365 1030,3362"/>
+                <Baseline points="1030,3461 1133,3464 1237,3466 1341,3469 1445,3472 1549,3475 1652,3478 1756,3480 1860,3483 1964,3485 2068,3488 2171,3490 2275,3492 2379,3493 2483,3494 2587,3494 2690,3494 2794,3494 2898,3492 3002,3490 3106,3488"/>
+                <TextEquiv>
+                    <Unicode>mino iubilemus ꝺeo saluta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:6;}">
+                <Coords points="1038,4020 1144,4023 1251,4027 1357,4031 1464,4035 1570,4038 1677,4042 1783,4044 1890,4047 1996,4049 2103,4051 2209,4052 2316,4054 2422,4054 2529,4054 2635,4054 2742,4053 2848,4051 2955,4049 3061,4046 3168,4043 3168,3895 3061,3898 2955,3901 2848,3903 2742,3905 2635,3906 2529,3906 2422,3906 2316,3906 2209,3904 2103,3903 1996,3901 1890,3899 1783,3896 1677,3894 1570,3890 1464,3887 1357,3883 1251,3879 1144,3875 1038,3872"/>
+                <Baseline points="1038,3971 1144,3974 1251,3978 1357,3982 1464,3986 1570,3989 1677,3993 1783,3995 1890,3998 1996,4000 2103,4002 2209,4003 2316,4005 2422,4005 2529,4005 2635,4005 2742,4004 2848,4002 2955,4000 3061,3997 3168,3994"/>
+                <TextEquiv>
+                    <Unicode>ri nostro pꝛeocupemus faciem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lio et spiritui sancto Sic̄ erat
+in pꝛincipio et nunc et semper
+tonꝰ
+et in secula seculoꝛuꝫ Am̄e q̄ntꝰ
+Venite _..._ exultemus ꝺo
+mino iubilemus ꝺeo saluta
+ri nostro pꝛeocupemus faciem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

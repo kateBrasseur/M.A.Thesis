@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:47.884-04:00</Created>
+        <LastChange>2019-07-22T21:35:34.697+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802868" pageNr="55" tsid="13061867" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=MCPUJQWKHJNGNGSLPCENFVDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXNSPRIATWPIRKANJYEZBCDR" imageId="4155697"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_26R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110931555" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="289,1293 289,3735 2253,3735 2253,1293"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} abbrev {offset:19; length:1;expansion:Versus;} rubrication {offset:19; length:1;} Drop-Capital {offset:21; length:1;}">
+                <Coords points="320,1428 360,1429 400,1429 440,1429 481,1429 521,1429 561,1429 601,1429 642,1429 682,1429 722,1429 762,1429 803,1429 843,1430 883,1430 923,1431 964,1432 1004,1433 1044,1435 1084,1436 2148,1421 2148,1286 1084,1301 1044,1300 1004,1298 964,1297 923,1296 883,1295 843,1295 803,1294 762,1294 722,1294 682,1294 642,1294 601,1294 561,1294 521,1294 481,1294 440,1294 400,1294 360,1294 320,1293"/>
+                <Baseline points="320,1383 360,1384 400,1384 440,1384 481,1384 521,1384 561,1384 601,1384 642,1384 682,1384 722,1384 762,1384 803,1384 843,1385 883,1385 923,1386 964,1387 1004,1388 1044,1390 1084,1391 1125,1394"/>
+                <TextEquiv>
+                    <Unicode>oues pas cue e ius Ꝟ Ho</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;} abbrev {offset:7; length:5;expansion:uocem;} abbrev {offset:13; length:3;expansion:eius;}">
+                <Coords points="338,1889 432,1889 527,1889 622,1889 717,1889 812,1890 906,1890 1001,1890 1096,1890 1191,1890 1286,1890 1380,1890 1475,1891 1570,1891 1665,1891 1760,1891 1854,1892 1949,1892 2044,1893 2139,1893 2234,1894 2234,1759 2139,1758 2044,1758 1949,1757 1854,1757 1760,1756 1665,1756 1570,1756 1475,1756 1380,1755 1286,1755 1191,1755 1096,1755 1001,1755 906,1755 812,1755 717,1754 622,1754 527,1754 432,1754 338,1754"/>
+                <Baseline points="338,1844 432,1844 527,1844 622,1844 717,1844 812,1845 906,1845 1001,1845 1096,1845 1191,1845 1286,1845 1380,1845 1475,1846 1570,1846 1665,1846 1760,1846 1854,1847 1949,1847 2044,1848 2139,1848 2234,1849"/>
+                <TextEquiv>
+                    <Unicode>ꝺie si uocē eiꝰ audieritis nolite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;} abbrev {offset:22; length:4;expansion:Sicut;}">
+                <Coords points="341,2349 404,2350 467,2351 531,2352 594,2352 658,2352 721,2351 784,2351 848,2351 911,2350 975,2349 1038,2348 1101,2348 1165,2347 1228,2346 1292,2346 1355,2345 1418,2345 1482,2345 1545,2345 2192,2341 2192,2206 1545,2210 1482,2210 1418,2210 1355,2210 1292,2211 1228,2211 1165,2212 1101,2213 1038,2213 975,2214 911,2215 848,2216 784,2216 721,2216 658,2217 594,2217 531,2217 467,2216 404,2215 341,2214"/>
+                <Baseline points="341,2304 404,2305 467,2306 531,2307 594,2307 658,2307 721,2306 784,2306 848,2306 911,2305 975,2304 1038,2303 1101,2303 1165,2302 1228,2301 1292,2301 1355,2300 1418,2300 1482,2300 1545,2300 1609,2300"/>
+                <TextEquiv>
+                    <Unicode>obꝺurare coꝛda uestra Sic̄ in e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;} abbrev {offset:14; length:8;expansion:secundum;} abbrev {offset:28; length:4; continued:true;expansion:temptationis;}">
+                <Coords points="289,2813 379,2813 470,2813 560,2813 651,2813 742,2812 832,2812 923,2811 1013,2811 1104,2811 1195,2810 1285,2810 1376,2809 1466,2809 1557,2808 1648,2808 1738,2808 1829,2808 1919,2807 2010,2807 2212,2808 2212,2673 2010,2672 1919,2672 1829,2673 1738,2673 1648,2673 1557,2673 1466,2674 1376,2674 1285,2675 1195,2675 1104,2676 1013,2676 923,2676 832,2677 742,2677 651,2678 560,2678 470,2678 379,2678 289,2678"/>
+                <Baseline points="289,2768 379,2768 470,2768 560,2768 651,2768 742,2767 832,2767 923,2766 1013,2766 1104,2766 1195,2765 1285,2765 1376,2764 1466,2764 1557,2763 1648,2763 1738,2763 1829,2763 1919,2762 2010,2762 2101,2763"/>
+                <TextEquiv>
+                    <Unicode>xarcerbatione secūꝺuꝫ ꝺiem tēp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:4;} abbrev {offset:0; length:8; continued:true;expansion:temptationis;} abbrev {offset:24; length:8; continued:true;expansion:temptauerunt;}">
+                <Coords points="334,3273 428,3274 523,3275 617,3275 712,3276 807,3276 901,3276 996,3276 1090,3275 1185,3275 1280,3275 1374,3274 1469,3273 1563,3273 1658,3272 1753,3272 1847,3271 1942,3270 2036,3270 2131,3269 2226,3269 2226,3134 2131,3134 2036,3135 1942,3135 1847,3136 1753,3137 1658,3137 1563,3138 1469,3138 1374,3139 1280,3140 1185,3140 1090,3140 996,3141 901,3141 807,3141 712,3141 617,3140 523,3140 428,3139 334,3138"/>
+                <Baseline points="334,3228 428,3229 523,3230 617,3230 712,3231 807,3231 901,3231 996,3231 1090,3230 1185,3230 1280,3230 1374,3229 1469,3228 1563,3228 1658,3227 1753,3227 1847,3226 1942,3225 2036,3225 2131,3224 2226,3224"/>
+                <TextEquiv>
+                    <Unicode>tationis in ꝺeserto ubi tēptaue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;} abbrev {offset:0; length:4; continued:true;expansion:temptauerunt;} abbrev {offset:22; length:9;expansion:probauerunt;}">
+                <Coords points="311,3732 408,3733 505,3734 602,3735 699,3735 796,3735 893,3735 990,3735 1087,3734 1184,3733 1282,3733 1379,3732 1476,3730 1573,3729 1670,3728 1767,3727 1864,3726 1961,3724 2058,3723 2155,3722 2253,3721 2253,3586 2155,3587 2058,3588 1961,3589 1864,3591 1767,3592 1670,3593 1573,3594 1476,3595 1379,3597 1282,3598 1184,3598 1087,3599 990,3600 893,3600 796,3600 699,3600 602,3600 505,3599 408,3598 311,3597"/>
+                <Baseline points="311,3687 408,3688 505,3689 602,3690 699,3690 796,3690 893,3690 990,3690 1087,3689 1184,3688 1282,3688 1379,3687 1476,3685 1573,3684 1670,3683 1767,3682 1864,3681 1961,3679 2058,3678 2155,3677 2253,3676"/>
+                <TextEquiv>
+                    <Unicode>rūt me patres uestri ꝓbauerūt et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>oues pas cue e ius Ꝟ Ho
+ꝺie si uocē eiꝰ audieritis nolite
+obꝺurare coꝛda uestra Sic̄ in e
+xarcerbatione secūꝺuꝫ ꝺiem tēp
+tationis in ꝺeserto ubi tēptaue
+rūt me patres uestri ꝓbauerūt et</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
