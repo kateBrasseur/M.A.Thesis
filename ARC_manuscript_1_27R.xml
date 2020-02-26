@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:47.956-04:00</Created>
+        <LastChange>2019-07-24T18:00:27.694+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802870" pageNr="57" tsid="13103846" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=KABWADZJGLTLYYNOCGGMXXSJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LCLOUGVVQQLQFVFDNJMYHMPN" imageId="4155699"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_27R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110931987" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+                <RegionRefIndexed index="1" regionRef="region_1563981945861_84"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="265,840 265,3799 2328,3799 2328,840"/>
+            <TextLine id="r2l5" custom="readingOrder {index:0;} Drop-Capital {offset:0; length:1;} textStyle {offset:19; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="309,1356 404,1347 499,1339 594,1333 689,1328 784,1326 879,1324 974,1323 1069,1323 1164,1324 1259,1325 1354,1327 1449,1329 1544,1331 1639,1333 1734,1335 1829,1336 1924,1337 2019,1337 2114,1336 2209,1335 2209,1211 2114,1212 2019,1213 1924,1213 1829,1212 1734,1211 1639,1209 1544,1207 1449,1205 1354,1203 1259,1201 1164,1200 1069,1199 974,1199 879,1200 784,1202 689,1204 594,1209 499,1215 404,1223 309,1232"/>
+                <Baseline points="309,1315 404,1306 499,1298 594,1292 689,1287 784,1285 879,1283 974,1282 1069,1282 1164,1283 1259,1284 1354,1286 1449,1288 1544,1290 1639,1292 1734,1294 1829,1295 1924,1296 2019,1296 2114,1295 2209,1294"/>
+                <TextEquiv>
+                    <Unicode>Gloꝛia patri et filio et spiri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:1;} abbrev {offset:10; length:4;expansion:sicut;} abbrev {offset:23; length:8;expansion:principio;}">
+                <Coords points="265,1818 1032,1813 1100,1813 1167,1813 1235,1814 1302,1815 1370,1816 1437,1817 1505,1818 1572,1819 1640,1820 1708,1821 1775,1822 1843,1823 1910,1824 1978,1825 2045,1826 2113,1827 2180,1827 2248,1828 2316,1828 2316,1704 2248,1704 2180,1703 2113,1703 2045,1702 1978,1701 1910,1700 1843,1699 1775,1698 1708,1697 1640,1696 1572,1695 1505,1694 1437,1693 1370,1692 1302,1691 1235,1690 1167,1689 1100,1689 1032,1689 265,1694"/>
+                <Baseline points="965,1771 1032,1772 1100,1772 1167,1772 1235,1773 1302,1774 1370,1775 1437,1776 1505,1777 1572,1778 1640,1779 1708,1780 1775,1781 1843,1782 1910,1783 1978,1784 2045,1785 2113,1786 2180,1786 2248,1787 2316,1787"/>
+                <TextEquiv>
+                    <Unicode>tui santo Sic̄ erat in p̄ncipio et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:2;} abbrev {offset:0; length:4;expansion:nunc;} abbrev {offset:8; length:4;expansion:semper;}">
+                <Coords points="269,2307 370,2307 471,2306 572,2306 673,2306 774,2306 875,2306 976,2306 1077,2307 1178,2307 1279,2308 1380,2309 1481,2309 1582,2310 1683,2311 1784,2312 1885,2312 1986,2313 2087,2314 2188,2315 2289,2315 2289,2191 2188,2191 2087,2190 1986,2189 1885,2188 1784,2188 1683,2187 1582,2186 1481,2185 1380,2185 1279,2184 1178,2183 1077,2183 976,2182 875,2182 774,2182 673,2182 572,2182 471,2182 370,2183 269,2183"/>
+                <Baseline points="269,2266 370,2266 471,2265 572,2265 673,2265 774,2265 875,2265 976,2265 1077,2266 1178,2266 1279,2267 1380,2268 1481,2268 1582,2269 1683,2270 1784,2271 1885,2271 1986,2272 2087,2273 2188,2274 2289,2274"/>
+                <TextEquiv>
+                    <Unicode>nūc et sēp et in secula secu loꝛum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1563982740194_120" custom="readingOrder {index:3;}">
+                <Coords points="262,2646 359,2645 456,2644 553,2644 650,2643 704,2643 704,2767 650,2767 553,2768 456,2768 359,2769 262,2770"/>
+                <Baseline points="265,2763 362,2762 459,2761 556,2761 653,2760 707,2760"/>
+                <TextEquiv>
+                    <Unicode>Amen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1563982740194_119" custom="readingOrder {index:4;} rubrication {offset:0; length:52;} abbrev {offset:8; length:8;expansion:officium;} abbrev {offset:17; length:2;expansion:in;} abbrev {offset:20; length:6;expansion:agenda;} abbrev {offset:27; length:8;expansion:mortuorum;} abbrev {offset:39; length:8;expansion:vesperas;}">
+                <Coords points="725,2469 1350,2469 1441,2456 1538,2456 1626,2451 1723,2451 1809,2461 1906,2462 2016,2465 2109,2464 2269,2458 2268,2801 2108,2807 2011,2806 1914,2805 1817,2804 1720,2803 1623,2803 1526,2802 1429,2802 1332,2801 707,2801"/>
+                <Baseline points="707,2760 750,2760 847,2760 944,2760 1041,2760 1138,2760 1235,2760 1332,2760 1429,2761 1526,2761 1623,2762 1720,2762 1817,2763 1914,2764 2011,2765 2108,2766 2206,2766"/>
+                <TextEquiv>
+                    <Unicode>Incipit officiū ī agēꝺa mor tuoꝵ aꝺ uesperas ⁖an⁖</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:5;} Drop-Capital {offset:0; length:1;} abbrev {offset:8; length:4;expansion:domino;}">
+                <Coords points="294,3303 645,3300 728,3298 811,3297 895,3296 978,3295 1061,3294 1145,3293 1228,3293 1311,3292 1395,3291 1478,3291 1561,3290 1644,3289 1728,3288 1811,3287 1894,3287 1978,3286 2061,3285 2144,3284 2228,3282 2228,3185 2144,3187 2061,3188 1978,3189 1894,3190 1811,3190 1728,3191 1644,3192 1561,3193 1478,3194 1395,3194 1311,3195 1228,3196 1145,3196 1061,3197 978,3198 895,3199 811,3200 728,3201 645,3203 294,3206"/>
+                <Baseline points="562,3269 645,3268 728,3266 811,3265 895,3264 978,3263 1061,3262 1145,3261 1228,3261 1311,3260 1395,3259 1478,3259 1561,3258 1644,3257 1728,3256 1811,3255 1894,3255 1978,3254 2061,3253 2144,3252 2228,3250"/>
+                <TextEquiv>
+                    <Unicode>Placebo ꝺn̄o in regionem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:6;} abbrev {offset:0; length:7;expansion:vivorum;} abbrev {offset:8; length:2;expansion:psalmus;} rubrication {offset:8; length:2;} Drop-Capital {offset:11; length:1;} abbrev {offset:18; length:3;expansion:quoniam;} rubrication {offset:22; length:1;}">
+                <Coords points="265,3794 325,3794 385,3795 445,3795 506,3796 566,3796 626,3796 687,3797 747,3797 807,3797 868,3797 928,3797 988,3797 1048,3797 1109,3797 1169,3797 1229,3798 1290,3798 1350,3798 1410,3798 2291,3772 2291,3648 1410,3674 1350,3674 1290,3674 1229,3674 1169,3673 1109,3673 1048,3673 988,3673 928,3673 868,3673 807,3673 747,3673 687,3673 626,3672 566,3672 506,3672 445,3671 385,3671 325,3670 265,3670"/>
+                <Baseline points="265,3753 325,3753 385,3754 445,3754 506,3755 566,3755 626,3755 687,3756 747,3756 807,3756 868,3756 928,3756 988,3756 1048,3756 1109,3756 1169,3756 1229,3757 1290,3757 1350,3757 1410,3757 1471,3758"/>
+                <TextEquiv>
+                    <Unicode>uiuoꝛum ps Dilexi q̄m a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gloꝛia patri et filio et spiri
+tui santo Sic̄ erat in p̄ncipio et
+nūc et sēp et in secula secu loꝛum
+Amen
+Incipit officiū ī agēꝺa mor tuoꝵ aꝺ uesperas ⁖an⁖
+Placebo ꝺn̄o in regionem
+uiuoꝛum ps Dilexi q̄m a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="marginalia" id="region_1563981945861_84" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="1385,3145 1015,3145 1015,3065 1385,3065"/>
+        </TextRegion>
+    </Page>
+</PcGts>

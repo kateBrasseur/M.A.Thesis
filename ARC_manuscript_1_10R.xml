@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:46.410-04:00</Created>
+        <LastChange>2019-07-10T16:43:35.997+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802830" pageNr="20" tsid="12637753" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=VMKNPNIJAMTIXCKAOKOYEECP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWUTNNDFDSYJTERFMPCEMNJJ" imageId="4155659"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_10R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110922770" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="306,782 306,3719 2381,3719 2381,782"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;} rubrication {offset:3; length:4;} rubrication {offset:14; length:1;} abbrev {offset:17; length:1;expansion:Versus;} rubrication {offset:17; length:1;} Drop-Capital {offset:19; length:1;}">
+                <Coords points="326,1229 726,1242 768,1243 810,1244 852,1244 894,1246 936,1246 977,1247 1019,1249 1061,1250 1103,1251 1145,1251 1187,1253 1229,1254 1270,1254 1312,1255 1354,1256 1396,1257 1438,1257 1480,1258 2394,1262 2394,1112 1480,1108 1438,1107 1396,1107 1354,1106 1312,1105 1270,1104 1229,1104 1187,1103 1145,1101 1103,1101 1061,1100 1019,1099 977,1097 936,1096 894,1096 852,1094 810,1094 768,1093 726,1092 326,1079"/>
+                <Baseline points="685,1191 726,1192 768,1193 810,1194 852,1194 894,1196 936,1196 977,1197 1019,1199 1061,1200 1103,1201 1145,1201 1187,1203 1229,1204 1270,1204 1312,1205 1354,1206 1396,1207 1438,1207 1480,1208 1522,1208"/>
+                <TextEquiv>
+                    <Unicode>bi _.._lemus e_i Ꝟ Quo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:1;} abbrev {offset:17; length:6;expansion:dominus;}">
+                <Coords points="343,1744 443,1744 543,1744 643,1744 743,1744 843,1745 943,1746 1043,1747 1143,1748 1243,1749 1343,1750 1443,1751 1543,1752 1643,1754 1743,1755 1843,1756 1943,1757 2043,1757 2143,1758 2243,1758 2344,1758 2344,1608 2243,1608 2143,1608 2043,1607 1943,1607 1843,1606 1743,1605 1643,1604 1543,1602 1443,1601 1343,1600 1243,1599 1143,1598 1043,1597 943,1596 843,1595 743,1594 643,1594 543,1594 443,1594 343,1594"/>
+                <Baseline points="343,1694 443,1694 543,1694 643,1694 743,1694 843,1695 943,1696 1043,1697 1143,1698 1243,1699 1343,1700 1443,1701 1543,1702 1643,1704 1743,1705 1843,1706 1943,1707 2043,1707 2143,1708 2243,1708 2344,1708"/>
+                <TextEquiv>
+                    <Unicode>niam deus magnus ꝺominꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:2;}">
+                <Coords points="349,2216 447,2218 546,2219 644,2221 743,2222 842,2223 940,2224 1039,2226 1137,2227 1236,2228 1335,2229 1433,2231 1532,2232 1630,2234 1729,2236 1828,2238 1926,2240 2025,2243 2123,2246 2222,2249 2321,2253 2321,2103 2222,2099 2123,2096 2025,2093 1926,2090 1828,2088 1729,2086 1630,2084 1532,2082 1433,2081 1335,2079 1236,2078 1137,2077 1039,2076 940,2074 842,2073 743,2072 644,2071 546,2069 447,2068 349,2066"/>
+                <Baseline points="349,2166 447,2168 546,2169 644,2171 743,2172 842,2173 940,2174 1039,2176 1137,2177 1236,2178 1335,2179 1433,2181 1532,2182 1630,2184 1729,2186 1828,2188 1926,2190 2025,2193 2123,2196 2222,2199 2321,2203"/>
+                <TextEquiv>
+                    <Unicode>et rex magnus super omnes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:3;} abbrev {offset:5; length:7;expansion:quoniam;}">
+                <Coords points="319,2719 422,2719 525,2720 628,2721 731,2722 834,2723 937,2724 1040,2725 1143,2726 1246,2728 1350,2729 1453,2730 1556,2732 1659,2733 1762,2735 1865,2736 1968,2738 2071,2739 2174,2741 2277,2743 2381,2744 2381,2594 2277,2593 2174,2591 2071,2589 1968,2588 1865,2586 1762,2585 1659,2583 1556,2582 1453,2580 1350,2579 1246,2578 1143,2576 1040,2575 937,2574 834,2573 731,2572 628,2571 525,2570 422,2569 319,2569"/>
+                <Baseline points="319,2669 422,2669 525,2670 628,2671 731,2672 834,2673 937,2674 1040,2675 1143,2676 1246,2678 1350,2679 1453,2680 1556,2682 1659,2683 1762,2685 1865,2686 1968,2688 2071,2689 2174,2691 2277,2693 2381,2694"/>
+                <TextEquiv>
+                    <Unicode>ꝺeos quoniaꝫ non repellet ꝺo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="350,3192 446,3194 542,3196 638,3198 734,3200 830,3202 926,3204 1022,3206 1118,3209 1214,3211 1310,3214 1406,3216 1502,3219 1598,3222 1694,3224 1790,3227 1886,3229 1982,3232 2078,3235 2174,3237 2271,3240 2271,3090 2174,3087 2078,3085 1982,3082 1886,3079 1790,3077 1694,3074 1598,3072 1502,3069 1406,3066 1310,3064 1214,3061 1118,3059 1022,3056 926,3054 830,3052 734,3050 638,3048 542,3046 446,3044 350,3042"/>
+                <Baseline points="350,3142 446,3144 542,3146 638,3148 734,3150 830,3152 926,3154 1022,3156 1118,3159 1214,3161 1310,3164 1406,3166 1502,3169 1598,3172 1694,3174 1790,3177 1886,3179 1982,3182 2078,3185 2174,3187 2271,3190"/>
+                <TextEquiv>
+                    <Unicode>minus plebem suam quia in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:5;} abbrev {offset:5; length:3;expansion:eius;}">
+                <Coords points="306,3681 407,3683 509,3685 611,3687 713,3689 815,3691 917,3692 1019,3694 1121,3696 1223,3697 1325,3699 1426,3701 1528,3702 1630,3704 1732,3706 1834,3708 1936,3709 2038,3712 2140,3714 2242,3716 2344,3719 2344,3569 2242,3566 2140,3564 2038,3562 1936,3559 1834,3558 1732,3556 1630,3554 1528,3552 1426,3551 1325,3549 1223,3547 1121,3546 1019,3544 917,3542 815,3541 713,3539 611,3537 509,3535 407,3533 306,3531"/>
+                <Baseline points="306,3631 407,3633 509,3635 611,3637 713,3639 815,3641 917,3642 1019,3644 1121,3646 1223,3647 1325,3649 1426,3651 1528,3652 1630,3654 1732,3656 1834,3658 1936,3659 2038,3662 2140,3664 2242,3666 2344,3669"/>
+                <TextEquiv>
+                    <Unicode>manu eiꝰ sūt omnes fines ter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bi _.._lemus e_i Ꝟ Quo
+niam deus magnus ꝺominꝰ
+et rex magnus super omnes
+ꝺeos quoniaꝫ non repellet ꝺo
+minus plebem suam quia in
+manu eiꝰ sūt omnes fines ter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

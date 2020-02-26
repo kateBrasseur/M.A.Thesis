@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Comb_Gothic_Script(htr_id=3156):Latin_wordlist_cc_200k.dict:::v=2.3.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:46.002-04:00</Created>
+        <LastChange>2019-07-03T17:12:01.901+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802804" pageNr="11" tsid="12273685" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=KFIEUVBVPIGNDYKYHDGQEZIW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GIFKXAZJZHIXGFAYSGRZRQTE" imageId="4155633"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_6V (d).JPG" imageWidth="5184" imageHeight="3456"/>
+</PcGts>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:47.922-04:00</Created>
+        <LastChange>2019-07-22T22:01:12.014+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802869" pageNr="56" tsid="13062081" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=EDXCAHZUTMXLRGRJIOSWQFFA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ETWZXLICTABROCSQAHZMJWOF" imageId="4155698"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_26V.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110931773" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="1215,866 1207,3784 3223,3784 3231,866"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} abbrev {offset:0; length:8;expansion:uiderunt;} rubrication {offset:10; length:1;} abbrev {offset:21; length:1;expansion:versus;} rubrication {offset:21; length:1;} abbrev {offset:23; length:3; continued:true;expansion:Quadraginta;} Drop-Capital {offset:23; length:1;}">
+                <Coords points="1246,1360 1316,1363 1386,1364 1456,1364 1526,1363 1596,1362 1666,1361 1736,1359 1806,1357 1876,1355 1947,1353 2017,1351 2087,1349 2157,1348 2227,1347 2297,1347 2367,1348 2437,1350 2507,1352 2577,1356 3187,1381 3187,1252 2577,1227 2507,1223 2437,1221 2367,1219 2297,1218 2227,1218 2157,1219 2087,1220 2017,1222 1947,1224 1876,1226 1806,1228 1736,1230 1666,1232 1596,1233 1526,1234 1456,1235 1386,1235 1316,1234 1246,1231"/>
+                <Baseline points="1246,1317 1316,1320 1386,1321 1456,1321 1526,1320 1596,1319 1666,1318 1736,1316 1806,1314 1876,1312 1947,1310 2017,1308 2087,1306 2157,1305 2227,1304 2297,1304 2367,1305 2437,1307 2507,1309 2577,1313 2648,1318"/>
+                <TextEquiv>
+                    <Unicode>uiꝺerūt o_pera me a Ꝟ Qua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:1;} abbrev {offset:0; length:8; continued:true;expansion:Quadraginta;} abbrev {offset:9; length:5;expansion:annis;} abbrev {offset:15; length:5;expansion:proximus;}">
+                <Coords points="1232,1826 2065,1842 2121,1836 2178,1832 2234,1829 2290,1827 2347,1827 2403,1827 2459,1828 2516,1830 2572,1832 2628,1834 2685,1837 2741,1840 2797,1843 2854,1846 2910,1848 2966,1849 3023,1850 3079,1850 3136,1850 3136,1717 3079,1717 3023,1717 2966,1716 2910,1715 2854,1713 2797,1710 2741,1707 2685,1704 2628,1701 2572,1699 2516,1697 2459,1695 2403,1694 2347,1694 2290,1694 2234,1696 2178,1699 2121,1703 2065,1709 1232,1693"/>
+                <Baseline points="2009,1806 2065,1798 2121,1792 2178,1788 2234,1785 2290,1783 2347,1783 2403,1783 2459,1784 2516,1786 2572,1788 2628,1790 2685,1793 2741,1796 2797,1799 2854,1802 2910,1804 2966,1805 3023,1806 3079,1806 3136,1806"/>
+                <TextEquiv>
+                    <Unicode>ꝺꝛagīta anīs ꝓximꝰ fui genera</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:2;} abbrev {offset:19; length:6;expansion:semper;} abbrev {offset:30; length:6;expansion:errant;}">
+                <Coords points="1259,2315 1354,2314 1450,2314 1545,2313 1641,2313 1737,2314 1832,2314 1928,2315 2024,2315 2119,2316 2215,2317 2311,2318 2406,2320 2502,2321 2598,2322 2693,2324 2789,2325 2885,2326 2980,2328 3076,2329 3172,2330 3172,2197 3076,2196 2980,2195 2885,2193 2789,2192 2693,2191 2598,2189 2502,2188 2406,2187 2311,2185 2215,2184 2119,2183 2024,2182 1928,2182 1832,2181 1737,2181 1641,2180 1545,2180 1450,2181 1354,2181 1259,2182"/>
+                <Baseline points="1259,2271 1354,2270 1450,2270 1545,2269 1641,2269 1737,2270 1832,2270 1928,2271 2024,2271 2119,2272 2215,2273 2311,2274 2406,2276 2502,2277 2598,2278 2693,2280 2789,2281 2885,2282 2980,2284 3076,2285 3172,2286"/>
+                <TextEquiv>
+                    <Unicode>cioni huic et ꝺixi sēper hij errāt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:3;} abbrev {offset:16; length:3;expansion:non;}">
+                <Coords points="1233,2792 1332,2794 1432,2795 1531,2797 1631,2798 1730,2800 1830,2801 1929,2802 2029,2803 2128,2804 2228,2805 2327,2806 2427,2807 2526,2807 2626,2808 2725,2809 2825,2809 2924,2810 3024,2810 3123,2810 3223,2811 3223,2678 3123,2677 3024,2677 2924,2677 2825,2676 2725,2676 2626,2675 2526,2674 2427,2674 2327,2673 2228,2672 2128,2671 2029,2670 1929,2669 1830,2668 1730,2667 1631,2665 1531,2664 1432,2662 1332,2661 1233,2659"/>
+                <Baseline points="1233,2748 1332,2750 1432,2751 1531,2753 1631,2754 1730,2756 1830,2757 1929,2758 2029,2759 2128,2760 2228,2761 2327,2762 2427,2763 2526,2763 2626,2764 2725,2765 2825,2765 2924,2766 3024,2766 3123,2766 3223,2767"/>
+                <TextEquiv>
+                    <Unicode>coꝛꝺe ipsi uero nō cognouerunt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:4;} abbrev {offset:10; length:4;expansion:quibus;}">
+                <Coords points="1222,3260 1321,3265 1420,3269 1519,3273 1618,3277 1717,3280 1816,3283 1916,3285 2015,3288 2114,3289 2213,3291 2312,3292 2411,3293 2510,3294 2610,3295 2709,3295 2808,3295 2907,3295 3006,3295 3105,3295 3205,3295 3205,3162 3105,3162 3006,3162 2907,3162 2808,3162 2709,3162 2610,3162 2510,3161 2411,3160 2312,3159 2213,3158 2114,3156 2015,3155 1916,3152 1816,3150 1717,3147 1618,3144 1519,3140 1420,3136 1321,3132 1222,3127"/>
+                <Baseline points="1222,3216 1321,3221 1420,3225 1519,3229 1618,3233 1717,3236 1816,3239 1916,3241 2015,3244 2114,3245 2213,3247 2312,3248 2411,3249 2510,3250 2610,3251 2709,3251 2808,3251 2907,3251 3006,3251 3105,3251 3205,3251"/>
+                <TextEquiv>
+                    <Unicode>uias meas q'bꝰ iuraui in ira mea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:5;} abbrev {offset:3; length:10;expansion:introibunt;} abbrev {offset:14; length:2;expansion:in;} abbrev {offset:17; length:7;expansion:requiem;} abbrev {offset:30; length:1;expansion:Versus;} rubrication {offset:30; length:1;}">
+                <Coords points="1207,3742 1299,3745 1392,3748 1485,3751 1578,3754 1671,3758 1764,3762 1856,3766 1949,3770 2042,3773 2135,3776 2228,3779 2321,3781 2414,3783 2506,3784 2599,3784 2692,3783 2785,3782 2878,3779 2971,3775 3064,3770 3064,3637 2971,3642 2878,3646 2785,3649 2692,3650 2599,3651 2506,3651 2414,3650 2321,3648 2228,3646 2135,3643 2042,3640 1949,3637 1856,3633 1764,3629 1671,3625 1578,3621 1485,3618 1392,3615 1299,3612 1207,3609"/>
+                <Baseline points="1207,3698 1299,3701 1392,3704 1485,3707 1578,3710 1671,3714 1764,3718 1856,3722 1949,3726 2042,3729 2135,3732 2228,3735 2321,3737 2414,3739 2506,3740 2599,3740 2692,3739 2785,3738 2878,3735 2971,3731 3064,3726"/>
+                <TextEquiv>
+                    <Unicode>si introibūt ī re q'em meam Ꝟ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>uiꝺerūt o_pera me a Ꝟ Qua
+ꝺꝛagīta anīs ꝓximꝰ fui genera
+cioni huic et ꝺixi sēper hij errāt
+coꝛꝺe ipsi uero nō cognouerunt
+uias meas q'bꝰ iuraui in ira mea
+si introibūt ī re q'em meam Ꝟ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

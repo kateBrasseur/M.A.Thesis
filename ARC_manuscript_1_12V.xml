@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:46.521-04:00</Created>
+        <LastChange>2019-07-10T17:02:22.434+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802833" pageNr="23" tsid="12639397" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=KNVXBKAIYCTFUHSDTYRSBEPD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OWDDZAUOMFBBKPAVKTKRLFWD" imageId="4155662"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_12V.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110923439" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="919,868 919,4064 3219,4064 3219,868"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;} abbrev {offset:27; length:4;expansion:sancto;} abbrev {offset:32; length:4;expansion:Sicut;} rubrication {offset:32; length:1;}">
+                <Coords points="973,1295 1084,1290 1196,1285 1307,1282 1419,1279 1530,1277 1642,1275 1753,1274 1865,1274 1976,1274 2088,1275 2199,1276 2311,1278 2422,1281 2534,1284 2645,1288 2757,1293 2868,1298 2980,1304 3091,1311 3203,1318 3203,1195 3091,1188 2980,1181 2868,1175 2757,1170 2645,1165 2534,1161 2422,1158 2311,1155 2199,1153 2088,1152 1976,1151 1865,1151 1753,1151 1642,1152 1530,1154 1419,1156 1307,1159 1196,1162 1084,1167 973,1172"/>
+                <Baseline points="973,1254 1084,1249 1196,1244 1307,1241 1419,1238 1530,1236 1642,1234 1753,1233 1865,1233 1976,1233 2088,1234 2199,1235 2311,1237 2422,1240 2534,1243 2645,1247 2757,1252 2868,1257 2980,1263 3091,1270 3203,1277"/>
+                <TextEquiv>
+                    <Unicode>patri et filio et spiritui sc̄o Sic̄</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:1;} abbrev {offset:21; length:4;expansion:nunc;}">
+                <Coords points="949,1835 1062,1832 1176,1830 1289,1828 1403,1827 1516,1827 1630,1826 1743,1826 1857,1827 1970,1828 2084,1829 2197,1830 2311,1832 2424,1834 2538,1836 2651,1839 2765,1841 2878,1844 2992,1846 3105,1849 3219,1852 3219,1717 3105,1714 2992,1711 2878,1709 2765,1706 2651,1704 2538,1701 2424,1699 2311,1697 2197,1695 2084,1694 1970,1693 1857,1692 1743,1691 1630,1691 1516,1692 1403,1692 1289,1693 1176,1695 1062,1697 949,1700"/>
+                <Baseline points="949,1790 1062,1787 1176,1785 1289,1783 1403,1782 1516,1782 1630,1781 1743,1781 1857,1782 1970,1783 2084,1784 2197,1785 2311,1787 2424,1789 2538,1791 2651,1794 2765,1796 2878,1799 2992,1801 3105,1804 3219,1807"/>
+                <TextEquiv>
+                    <Unicode>erat in pꝛincipio et nūc et sem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:2;} abbrev {offset:17; length:10;expansion:seculorum;} rubrication {offset:21; length:1;} rubrication {offset:29; length:1;}">
+                <Coords points="970,2373 1079,2375 1188,2377 1298,2378 1407,2380 1517,2381 1626,2383 1735,2384 1845,2386 1954,2387 2064,2388 2173,2390 2283,2392 2392,2394 2501,2395 2611,2397 2720,2399 2830,2402 2939,2404 3049,2406 3049,2271 2939,2269 2830,2267 2720,2264 2611,2262 2501,2260 2392,2259 2283,2257 2173,2255 2064,2253 1954,2252 1845,2251 1735,2249 1626,2248 1517,2246 1407,2245 1298,2243 1188,2242 1079,2240 970,2238"/>
+                <Baseline points="970,2328 1079,2330 1188,2332 1298,2333 1407,2335 1517,2336 1626,2338 1735,2339 1845,2341 1954,2342 2064,2343 2173,2345 2283,2347 2392,2349 2501,2350 2611,2352 2720,2354 2830,2357 2939,2359 3049,2361"/>
+                <TextEquiv>
+                    <Unicode>per et in secula secu_loꝛuꝫ a_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;} rubrication {offset:0; length:4;}">
+                <Coords points="1428,2711 1454,2708 1480,2706 1506,2704 1532,2703 1559,2702 1585,2702 1611,2702 1637,2702 1663,2703 1690,2705 1690,2570 1663,2568 1637,2567 1611,2567 1585,2567 1559,2567 1532,2568 1506,2569 1480,2571 1454,2573 1428,2576"/>
+                <Baseline points="1428,2666 1454,2663 1480,2661 1506,2659 1532,2658 1559,2657 1585,2657 1611,2657 1637,2657 1663,2658 1690,2660"/>
+                <TextEquiv>
+                    <Unicode>aliꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:4;} rubrication {offset:4; length:8;} rubrication {offset:13; length:1;}">
+                <Coords points="929,2907 968,2908 1007,2910 1046,2911 1085,2912 1124,2914 1163,2915 1203,2916 1242,2916 1281,2918 1320,2918 1359,2919 1398,2919 1437,2920 1477,2920 1516,2921 1555,2921 1594,2922 1633,2922 1672,2922 3227,2940 3227,2805 1672,2787 1633,2787 1594,2787 1555,2786 1516,2786 1477,2785 1437,2785 1398,2784 1359,2784 1320,2783 1281,2783 1242,2781 1203,2781 1163,2780 1124,2779 1085,2777 1046,2776 1007,2775 968,2773 929,2772"/>
+                <Baseline points="929,2862 968,2863 1007,2865 1046,2866 1085,2867 1124,2869 1163,2870 1203,2871 1242,2871 1281,2873 1320,2873 1359,2874 1398,2874 1437,2875 1477,2875 1516,2876 1555,2876 1594,2877 1633,2877 1672,2877 1712,2877"/>
+                <TextEquiv>
+                    <Unicode>men ? tonꝰ Ve_nite exulte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:5;}">
+                <Coords points="919,3444 1030,3446 1142,3449 1254,3453 1365,3456 1477,3460 1589,3465 1700,3468 1812,3473 1924,3476 2036,3480 2147,3485 2259,3488 2371,3492 2482,3495 2594,3498 2706,3500 2817,3502 2929,3503 3041,3504 3153,3504 3153,3369 3041,3369 2929,3368 2817,3367 2706,3365 2594,3363 2482,3360 2371,3357 2259,3353 2147,3350 2036,3345 1924,3341 1812,3338 1700,3333 1589,3330 1477,3325 1365,3321 1254,3318 1142,3314 1030,3311 919,3309"/>
+                <Baseline points="919,3399 1030,3401 1142,3404 1254,3408 1365,3411 1477,3415 1589,3420 1700,3423 1812,3428 1924,3431 2036,3435 2147,3440 2259,3443 2371,3447 2482,3450 2594,3453 2706,3455 2817,3457 2929,3458 3041,3459 3153,3459"/>
+                <TextEquiv>
+                    <Unicode>mus ꝺomino iubilemus ꝺeo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:6;}">
+                <Coords points="925,3972 1036,3978 1148,3986 1259,3992 1371,3999 1482,4005 1594,4011 1705,4017 1817,4023 1928,4028 2040,4034 2151,4039 2263,4043 2374,4047 2486,4051 2597,4055 2709,4057 2820,4060 2932,4061 3043,4063 3155,4064 3155,3929 3043,3928 2932,3926 2820,3925 2709,3922 2597,3920 2486,3916 2374,3912 2263,3908 2151,3904 2040,3899 1928,3893 1817,3888 1705,3882 1594,3876 1482,3870 1371,3864 1259,3857 1148,3851 1036,3843 925,3837"/>
+                <Baseline points="925,3927 1036,3933 1148,3941 1259,3947 1371,3954 1482,3960 1594,3966 1705,3972 1817,3978 1928,3983 2040,3989 2151,3994 2263,3998 2374,4002 2486,4006 2597,4010 2709,4012 2820,4015 2932,4016 3043,4018 3155,4019"/>
+                <TextEquiv>
+                    <Unicode>salutari nostro pꝛeocupemus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>patri et filio et spiritui sc̄o Sic̄
+erat in pꝛincipio et nūc et sem
+per et in secula secu_loꝛuꝫ a_
+aliꝰ
+men ? tonꝰ Ve_nite exulte
+mus ꝺomino iubilemus ꝺeo
+salutari nostro pꝛeocupemus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
