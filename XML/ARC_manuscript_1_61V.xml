@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:51.078-04:00</Created>
+        <LastChange>2019-12-06T22:04:36.358+01:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6803016" pageNr="148" tsid="20579387" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=NJVMBKPNVPQHXHWONBCHFILX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DHFGTDCQLZWERMCYIVJRKLDY" imageId="4155790"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_61V.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110954123" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1059,1021 1059,3769 3201,3769 3201,1021"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} rubrication {offset:23; length:1;}">
+                <Coords points="1062,1177 1121,1182 1180,1185 1240,1187 1299,1188 1358,1188 1418,1188 1477,1186 1536,1184 1596,1182 1655,1179 1714,1177 1774,1175 1833,1173 1892,1171 1952,1169 2011,1169 2070,1169 2130,1170 2189,1172 3203,1187 3203,1039 2189,1024 2130,1022 2070,1021 2011,1021 1952,1021 1892,1023 1833,1025 1774,1027 1714,1029 1655,1031 1596,1034 1536,1036 1477,1038 1418,1040 1358,1040 1299,1040 1240,1039 1180,1037 1121,1034 1062,1029"/>
+                <Baseline points="1062,1128 1121,1133 1180,1136 1240,1138 1299,1139 1358,1139 1418,1139 1477,1137 1536,1135 1596,1133 1655,1130 1714,1128 1774,1126 1833,1124 1892,1122 1952,1120 2011,1120 2070,1120 2130,1121 2189,1123 2249,1126"/>
+                <TextEquiv>
+                    <Unicode>ſis p̄ſul aꝺ cuſtoꝺiaꝫ Telucis an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="1062,1696 1165,1698 1268,1700 1372,1701 1475,1703 1578,1703 1682,1703 1785,1703 1888,1703 1992,1703 2095,1702 2198,1701 2302,1701 2405,1700 2508,1699 2612,1699 2715,1698 2818,1698 2922,1698 3025,1699 3129,1699 3129,1551 3025,1551 2922,1550 2818,1550 2715,1550 2612,1551 2508,1551 2405,1552 2302,1553 2198,1553 2095,1554 1992,1555 1888,1555 1785,1555 1682,1555 1578,1555 1475,1555 1372,1553 1268,1552 1165,1550 1062,1548"/>
+                <Baseline points="1062,1647 1165,1649 1268,1651 1372,1652 1475,1654 1578,1654 1682,1654 1785,1654 1888,1654 1992,1654 2095,1653 2198,1652 2302,1652 2405,1651 2508,1650 2612,1650 2715,1649 2818,1649 2922,1649 3025,1650 3129,1650"/>
+                <TextEquiv>
+                    <Unicode>te tm̄inū reꝛ creatoꝛ poſcimꝯ ut ſoli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1059,2218 1156,2218 1253,2218 1350,2218 1447,2218 1545,2218 1642,2218 1739,2217 1836,2217 1933,2217 2031,2217 2128,2216 2225,2216 2322,2216 2419,2216 2517,2216 2614,2217 2711,2217 2808,2218 2905,2219 3003,2220 3003,2072 2905,2071 2808,2070 2711,2069 2614,2069 2517,2068 2419,2068 2322,2068 2225,2068 2128,2068 2031,2069 1933,2069 1836,2069 1739,2069 1642,2070 1545,2070 1447,2070 1350,2070 1253,2070 1156,2070 1059,2070"/>
+                <Baseline points="1059,2169 1156,2169 1253,2169 1350,2169 1447,2169 1545,2169 1642,2169 1739,2168 1836,2168 1933,2168 2031,2168 2128,2167 2225,2167 2322,2167 2419,2167 2517,2167 2614,2168 2711,2168 2808,2169 2905,2170 3003,2171"/>
+                <TextEquiv>
+                    <Unicode>ta clemētia ſis p̄ſulaꝺ cuſtodiaꝫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575665985908_350" custom="readingOrder {index:3;} rubrication {offset:0; length:28;}">
+                <Coords points="2191,2316 3171,2316 3171,2719 2191,2719"/>
+                <TextEquiv>
+                    <Unicode>In uiſitatione: beate marie~</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;} rubrication {offset:0; length:1;}">
+                <Coords points="1063,2744 1282,2740 1327,2739 1373,2737 1418,2736 1464,2736 1509,2735 1554,2735 1600,2735 1645,2735 1691,2735 1736,2735 1781,2735 1827,2735 1872,2734 1918,2734 1963,2733 2008,2732 2054,2731 2099,2729 2145,2727 2145,2579 2099,2581 2054,2583 2008,2584 1963,2585 1918,2586 1872,2586 1827,2587 1781,2587 1736,2587 1691,2587 1645,2587 1600,2587 1554,2587 1509,2587 1464,2588 1418,2588 1373,2589 1327,2591 1282,2592 1063,2596"/>
+                <Baseline points="1237,2693 1282,2691 1327,2690 1373,2688 1418,2687 1464,2687 1509,2686 1554,2686 1600,2686 1645,2686 1691,2686 1736,2686 1781,2686 1827,2686 1872,2685 1918,2685 1963,2684 2008,2683 2054,2682 2099,2680 2145,2678"/>
+                <TextEquiv>
+                    <Unicode>I n mariaꝫ uiteui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:5;}">
+                <Coords points="1074,3246 1114,3244 1155,3244 1196,3243 1237,3242 1277,3242 1318,3242 1359,3242 1400,3243 1440,3243 1481,3244 1522,3245 1563,3245 1603,3246 1644,3246 1685,3247 1726,3247 1766,3247 1807,3246 1848,3246 3141,3227 3141,3079 1848,3098 1807,3098 1766,3099 1726,3099 1685,3099 1644,3098 1603,3098 1563,3097 1522,3097 1481,3096 1440,3095 1400,3095 1359,3094 1318,3094 1277,3094 1237,3094 1196,3095 1155,3096 1114,3096 1074,3098"/>
+                <Baseline points="1074,3197 1114,3195 1155,3195 1196,3194 1237,3193 1277,3193 1318,3193 1359,3193 1400,3194 1440,3194 1481,3195 1522,3196 1563,3196 1603,3197 1644,3197 1685,3198 1726,3198 1766,3198 1807,3197 1848,3197 1889,3196"/>
+                <TextEquiv>
+                    <Unicode>am mr̄eꝫ uerā uiuētiū pleunit q' reꝺe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575666017869_362" custom="readingOrder {index:6;} rubrication {offset:0; length:6;}">
+                <Coords points="2923,3349 3160,3349 3160,3762 2923,3762"/>
+                <TextEquiv>
+                    <Unicode>aꝺ nō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:7;} rubrication {offset:23; length:1;}">
+                <Coords points="1115,3766 1214,3766 1314,3765 1414,3765 1514,3765 1614,3765 1714,3765 1814,3765 1914,3765 2014,3766 2114,3766 2213,3767 2313,3767 2413,3767 2513,3768 2613,3768 2713,3768 2813,3769 2913,3769 3013,3769 3113,3769 3113,3621 3013,3621 2913,3621 2813,3621 2713,3620 2613,3620 2513,3620 2413,3619 2313,3619 2213,3619 2114,3618 2014,3618 1914,3617 1814,3617 1714,3617 1614,3617 1514,3617 1414,3617 1314,3617 1214,3618 1115,3618"/>
+                <Baseline points="1115,3717 1214,3717 1314,3716 1414,3716 1514,3716 1614,3716 1714,3716 1814,3716 1914,3716 2014,3717 2114,3717 2213,3718 2313,3718 2413,3718 2513,3719 2613,3719 2713,3719 2813,3720 2913,3720 3013,3720 3113,3720"/>
+                <TextEquiv>
+                    <Unicode>mit pctā ꝺeliquētiuꝫ Greſſū cepit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ſis p̄ſul aꝺ cuſtoꝺiaꝫ Telucis an&#xD;
+te tm̄inū reꝛ creatoꝛ poſcimꝯ ut ſoli&#xD;
+ta clemētia ſis p̄ſulaꝺ cuſtodiaꝫ&#xD;
+In uiſitatione: beate marie~&#xD;
+I n mariaꝫ uiteui&#xD;
+am mr̄eꝫ uerā uiuētiū pleunit q' reꝺe&#xD;
+aꝺ nō&#xD;
+mit pctā ꝺeliquētiuꝫ Greſſū cepit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

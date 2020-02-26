@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:49.400-04:00</Created>
+        <LastChange>2019-10-22T17:41:19.623+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802966" pageNr="98" tsid="17531455" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=DPCSUZROVXMCJDRZVWBROZIW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWVAFSFGWRBLIWSRSKWGAIBC" imageId="4155740"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_42R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110941937" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="336,1104 336,3868 2643,3868 2643,1104"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} comment {offset:0; length:25;comment:*Decided\u0020to\u0020not\u0020abbreviate\u0020from\u0020now\u0020on,\u0020concentrate\u0020on\u0020transcription\u0020and\u0020go\u0020back\u0020and\u0020do\u0020the\u0020abbreviations\u0020in\u0020my\u0020second\u0020pass\u0020over.;}">
+                <Coords points="382,1250 770,1227 857,1230 944,1233 1030,1236 1117,1238 1204,1240 1290,1241 1377,1243 1464,1244 1551,1244 1637,1245 1724,1245 1811,1245 1897,1246 1984,1246 2071,1246 2157,1247 2244,1248 2331,1248 2418,1250 2418,1132 2331,1130 2244,1130 2157,1129 2071,1128 1984,1128 1897,1128 1811,1127 1724,1127 1637,1127 1551,1126 1464,1126 1377,1125 1290,1123 1204,1122 1117,1120 1030,1118 944,1115 857,1112 770,1109 382,1132"/>
+                <Baseline points="684,1183 770,1188 857,1191 944,1194 1030,1197 1117,1199 1204,1201 1290,1202 1377,1204 1464,1205 1551,1205 1637,1206 1724,1206 1811,1206 1897,1207 1984,1207 2071,1207 2157,1208 2244,1209 2331,1209 2418,1211"/>
+                <TextEquiv>
+                    <Unicode>Omnis ſpiritꝰ lauꝺet ꝺomi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="336,1735 390,1737 445,1738 500,1739 555,1740 609,1741 664,1741 719,1741 774,1742 828,1742 883,1742 938,1742 993,1742 1047,1742 1102,1743 1157,1743 1212,1744 1266,1745 1321,1746 1376,1748 2077,1746 2077,1628 1376,1630 1321,1628 1266,1627 1212,1626 1157,1625 1102,1625 1047,1624 993,1624 938,1624 883,1624 828,1624 774,1624 719,1623 664,1623 609,1623 555,1622 500,1621 445,1620 390,1619 336,1617"/>
+                <Baseline points="336,1696 390,1698 445,1699 500,1700 555,1701 609,1702 664,1702 719,1702 774,1703 828,1703 883,1703 938,1703 993,1703 1047,1703 1102,1704 1157,1704 1212,1705 1266,1706 1321,1707 1376,1709 1431,1711"/>
+                <TextEquiv>
+                    <Unicode>nū ps̄ Lauꝺ̄teꝺ.ꝺ. a Ego ſuꝫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;} comment {offset:0; length:32;comment:Obvious\u0020change\u0020of\u0020hand\u0020here!;}">
+                <Coords points="551,2292 718,2283 809,2283 900,2283 992,2284 1083,2285 1174,2286 1266,2289 1357,2291 1448,2293 1540,2296 1631,2299 1722,2301 1813,2304 1905,2306 1996,2309 2087,2312 2179,2313 2270,2315 2361,2317 2453,2318 2453,2200 2361,2199 2270,2197 2179,2195 2087,2194 1996,2191 1905,2188 1813,2186 1722,2183 1631,2181 1540,2178 1448,2175 1357,2173 1266,2171 1174,2168 1083,2167 992,2166 900,2165 809,2165 718,2165 551,2174"/>
+                <Baseline points="627,2245 718,2244 809,2244 900,2244 992,2245 1083,2246 1174,2247 1266,2250 1357,2252 1448,2254 1540,2257 1631,2260 1722,2262 1813,2265 1905,2267 1996,2270 2087,2273 2179,2274 2270,2276 2361,2278 2453,2279"/>
+                <TextEquiv>
+                    <Unicode>pa trē om m' potētē fa to rem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="400,2817 504,2819 608,2821 712,2823 816,2824 920,2826 1024,2827 1129,2829 1233,2830 1337,2832 1441,2833 1545,2834 1649,2835 1753,2836 1858,2837 1962,2838 2066,2839 2170,2840 2274,2841 2378,2842 2483,2843 2483,2725 2378,2724 2274,2723 2170,2722 2066,2721 1962,2720 1858,2719 1753,2718 1649,2717 1545,2716 1441,2715 1337,2714 1233,2712 1129,2711 1024,2709 920,2708 816,2706 712,2705 608,2703 504,2701 400,2699"/>
+                <Baseline points="400,2778 504,2780 608,2782 712,2784 816,2785 920,2787 1024,2788 1129,2790 1233,2791 1337,2793 1441,2794 1545,2795 1649,2796 1753,2797 1858,2798 1962,2799 2066,2800 2170,2801 2274,2802 2378,2803 2483,2804"/>
+                <TextEquiv>
+                    <Unicode>reli et terre viſiuili ū omin'n̄ [et] m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:4;}">
+                <Coords points="357,3285 1501,3324 1561,3324 1621,3324 1681,3325 1741,3326 1801,3328 1861,3329 1921,3331 1981,3332 2042,3334 2102,3335 2162,3335 2222,3336 2282,3336 2342,3335 2402,3334 2462,3332 2522,3329 2582,3325 2643,3320 2643,3202 2582,3207 2522,3211 2462,3214 2402,3216 2342,3217 2282,3218 2222,3218 2162,3217 2102,3217 2042,3216 1981,3214 1921,3213 1861,3211 1801,3210 1741,3208 1681,3207 1621,3206 1561,3206 1501,3206 357,3167"/>
+                <Baseline points="1441,3286 1501,3285 1561,3285 1621,3285 1681,3286 1741,3287 1801,3289 1861,3290 1921,3292 1981,3293 2042,3295 2102,3296 2162,3296 2222,3297 2282,3297 2342,3296 2402,3295 2462,3293 2522,3290 2582,3286 2643,3281"/>
+                <TextEquiv>
+                    <Unicode>viſi ? liū [et] ivmī ꝺominū ihm̄ chuſ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:5;}">
+                <Coords points="354,3832 456,3839 558,3845 660,3850 762,3855 865,3857 967,3860 1069,3861 1171,3862 1273,3862 1376,3862 1478,3862 1580,3862 1682,3861 1784,3861 1887,3861 1989,3861 2091,3862 2193,3863 2295,3865 2398,3868 2398,3750 2295,3747 2193,3745 2091,3744 1989,3743 1887,3743 1784,3743 1682,3743 1580,3744 1478,3744 1376,3744 1273,3744 1171,3744 1069,3743 967,3742 865,3739 762,3737 660,3732 558,3727 456,3721 354,3714"/>
+                <Baseline points="354,3793 456,3800 558,3806 660,3811 762,3816 865,3818 967,3821 1069,3822 1171,3823 1273,3823 1376,3823 1478,3823 1580,3823 1682,3822 1784,3822 1887,3822 1989,3822 2091,3823 2193,3824 2295,3826 2398,3829"/>
+                <TextEquiv>
+                    <Unicode>tū fihū ꝺei vnigetū Et er̄ pate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Omnis ſpiritꝰ lauꝺet ꝺomi
+nū ps̄ Lauꝺ̄teꝺ.ꝺ. a Ego ſuꝫ
+pa trē om m' potētē fa to rem
+reli et terre viſiuili ū omin'n̄ [et] m
+viſi ? liū [et] ivmī ꝺominū ihm̄ chuſ
+tū fihū ꝺei vnigetū Et er̄ pate</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

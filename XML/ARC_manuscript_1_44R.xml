@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:49.526-04:00</Created>
+        <LastChange>2019-10-22T18:06:22.430+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802970" pageNr="102" tsid="17534608" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=RJGDFRJTBQYZWKLRIDYOJFEN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CEMHWENOPFVHMOYGKYWDWHZW" imageId="4155744"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_44R.JPG" imageWidth="5184" imageHeight="3456">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110942746" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="339,944 339,3768 2407,3768 2407,944"/>
+            <TextLine id="line_1571760085847_271" custom="readingOrder {index:0;} rubrication {offset:0; length:21;}">
+                <Coords points="1791,908 2420,908 2420,1297 1791,1297"/>
+                <TextEquiv>
+                    <Unicode>S? ī aꝺ uētu ꝺn̄i?ꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} rubrication {offset:0; length:1;}">
+                <Coords points="334,1263 631,1269 720,1269 809,1269 898,1270 987,1271 1076,1272 1165,1273 1254,1274 1343,1276 1432,1277 1521,1279 1610,1280 1699,1282 1788,1283 1877,1285 1966,1286 2055,1287 2144,1288 2233,1288 1784,1280 1784,1138 2233,1146 2144,1146 2055,1145 1966,1144 1877,1143 1788,1141 1699,1140 1610,1138 1521,1137 1432,1135 1343,1134 1254,1132 1165,1131 1076,1130 987,1129 898,1128 809,1127 720,1127 631,1127 334,1121"/>
+                <Baseline points="542,1222 631,1222 720,1222 809,1222 898,1223 987,1224 1076,1225 1165,1226 1254,1227 1343,1229 1432,1230 1521,1232 1610,1233 1699,1235 1788,1236 1877,1238 1966,1239 2055,1240 2144,1241 2233,1241 2322,1242"/>
+                <TextEquiv>
+                    <Unicode>A?nꝺitoꝛ alme ſiꝺe?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="342,1772 441,1771 540,1770 640,1769 739,1768 839,1768 938,1767 1037,1767 1137,1767 1236,1767 1336,1768 1435,1768 1534,1769 1634,1770 1733,1771 1833,1772 1932,1773 2031,1774 2131,1775 2230,1777 2330,1779 2330,1637 2230,1635 2131,1633 2031,1632 1932,1631 1833,1630 1733,1629 1634,1628 1534,1627 1435,1626 1336,1626 1236,1625 1137,1625 1037,1625 938,1625 839,1626 739,1626 640,1627 540,1628 441,1629 342,1630"/>
+                <Baseline points="342,1725 441,1724 540,1723 640,1722 739,1721 839,1721 938,1720 1037,1720 1137,1720 1236,1720 1336,1721 1435,1721 1534,1722 1634,1723 1733,1724 1833,1725 1932,1726 2031,1727 2131,1728 2230,1730 2330,1732"/>
+                <TextEquiv>
+                    <Unicode>eterna lux creꝺēptiū xp̄e reꝺētoꝛ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} rubrication {offset:30; length:1;}">
+                <Coords points="342,2274 441,2274 540,2274 639,2274 738,2274 838,2274 937,2274 1036,2274 1135,2273 1234,2273 1334,2273 1433,2273 1532,2273 1631,2273 1730,2273 1830,2274 1929,2274 2028,2275 2127,2276 2226,2277 2326,2278 2326,2136 2226,2135 2127,2134 2028,2133 1929,2132 1830,2132 1730,2131 1631,2131 1532,2131 1433,2131 1334,2131 1234,2131 1135,2131 1036,2132 937,2132 838,2132 738,2132 639,2132 540,2132 441,2132 342,2132"/>
+                <Baseline points="342,2227 441,2227 540,2227 639,2227 738,2227 838,2227 937,2227 1036,2227 1135,2226 1234,2226 1334,2226 1433,2226 1532,2226 1631,2226 1730,2226 1830,2227 1929,2227 2028,2228 2127,2229 2226,2230 2326,2231"/>
+                <TextEquiv>
+                    <Unicode>oīuꝫ exauꝺi pꝛeces ſu?plicū Qui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571760100828_276" custom="readingOrder {index:4;} rubrication {offset:0; length:5;}">
+                <Coords points="2248,2408 2435,2408 2435,2752 2248,2752"/>
+                <TextEquiv>
+                    <Unicode>aꝺ no</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="344,2778 674,2776 763,2774 852,2773 941,2773 1030,2773 1119,2773 1208,2773 1297,2774 1386,2774 1475,2775 1563,2775 1652,2775 1741,2776 1830,2775 1919,2775 2008,2774 2097,2772 2186,2770 2275,2767 2364,2764 2364,2623 2275,2626 2186,2629 2097,2631 2008,2633 1919,2634 1830,2634 1741,2635 1652,2634 1563,2634 1475,2634 1386,2633 1297,2633 1208,2632 1119,2632 1030,2632 941,2632 852,2632 763,2633 674,2635 344,2637"/>
+                <Baseline points="586,2731 674,2729 763,2727 852,2726 941,2726 1030,2726 1119,2726 1208,2726 1297,2727 1386,2727 1475,2728 1563,2728 1652,2728 1741,2729 1830,2728 1919,2728 2008,2727 2097,2725 2186,2723 2275,2720 2364,2717"/>
+                <TextEquiv>
+                    <Unicode>?erbū ſupernū ?ꝺiēs a patre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="339,3269 1351,3270 1404,3270 1457,3269 1511,3269 1564,3269 1617,3269 1671,3268 1724,3268 1777,3268 1831,3267 1884,3267 1937,3266 1990,3266 2044,3265 2097,3264 2150,3263 2204,3262 2257,3260 2310,3259 2364,3257 2364,3115 2310,3117 2257,3118 2204,3120 2150,3121 2097,3122 2044,3123 1990,3124 1937,3124 1884,3125 1831,3125 1777,3126 1724,3126 1671,3126 1617,3127 1564,3127 1511,3127 1457,3127 1404,3128 1351,3128 339,3127"/>
+                <Baseline points="1298,3224 1351,3223 1404,3223 1457,3222 1511,3222 1564,3222 1617,3222 1671,3221 1724,3221 1777,3221 1831,3220 1884,3220 1937,3219 1990,3219 2044,3218 2097,3217 2150,3216 2204,3215 2257,3213 2310,3212 2364,3210"/>
+                <TextEquiv>
+                    <Unicode>oliꝫ exiens quinatꝰ oꝛbiſubueni?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;} rubrication {offset:22; length:1;}">
+                <Coords points="339,3756 408,3756 477,3757 546,3758 616,3758 685,3760 754,3761 823,3762 893,3763 962,3764 1031,3765 1100,3767 1170,3767 1239,3768 1308,3768 1377,3768 1447,3768 1516,3767 1585,3765 1654,3763 2390,3761 2390,3619 1654,3621 1585,3623 1516,3625 1447,3626 1377,3626 1308,3626 1239,3626 1170,3625 1100,3625 1031,3623 962,3622 893,3621 823,3620 754,3619 685,3618 616,3616 546,3616 477,3615 408,3614 339,3614"/>
+                <Baseline points="339,3709 408,3709 477,3710 546,3711 616,3711 685,3713 754,3714 823,3715 893,3716 962,3717 1031,3718 1100,3720 1170,3720 1239,3721 1308,3721 1377,3721 1447,3721 1516,3720 1585,3718 1654,3716 1724,3714"/>
+                <TextEquiv>
+                    <Unicode>curſu ꝺediui tempoꝛis Illumina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S? ī aꝺ uētu ꝺn̄i?ꝰ
+A?nꝺitoꝛ alme ſiꝺe?
+eterna lux creꝺēptiū xp̄e reꝺētoꝛ
+oīuꝫ exauꝺi pꝛeces ſu?plicū Qui
+aꝺ no
+?erbū ſupernū ?ꝺiēs a patre
+oliꝫ exiens quinatꝰ oꝛbiſubueni?
+curſu ꝺediui tempoꝛis Illumina</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:51.172-04:00</Created>
+        <LastChange>2019-12-06T22:27:05.726+01:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6803019" pageNr="151" tsid="20579829" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=WLZHWWGRYKGFWHDLEBTQWTDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FHMTADASZNGWWZKRURJPNGWX" imageId="4155793"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_62R (bis).JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110954888" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1575666455410_411"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1575666455410_411" custom="readingOrder {index:0;}">
+            <Coords points="379,1031 2319,1031 2319,3863 379,3863"/>
+            <TextLine id="line_1575666470876_414" custom="readingOrder {index:0;} rubrication {offset:0; length:32;}">
+                <Coords points="2095,1035 2384,1035 2384,1483 2095,1483"/>
+                <TextEquiv>
+                    <Unicode>lamē tatō: jereim e pꝛo phete:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575666486450_417" custom="readingOrder {index:1;} rubrication {offset:0; length:1;}">
+                <Coords points="379,1284 2115,1284 2115,1490 379,1490"/>
+                <TextEquiv>
+                    <Unicode>Incipit lamentatio Jemie?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575666489262_420" custom="readingOrder {index:2;} rubrication {offset:7; length:7;}">
+                <Coords points="343,1784 2318,1784 2318,1955 343,1955"/>
+                <TextEquiv>
+                    <Unicode>pꝛophe Aleph Quomoꝺo ſeꝺet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575666493136_423" custom="readingOrder {index:3;}">
+                <Coords points="340,2218 2318,2218 2318,2433 340,2433"/>
+                <TextEquiv>
+                    <Unicode>ſola ciuitas plena pplo facta eſt q̄ſi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575666506086_429" custom="readingOrder {index:4;}">
+                <Coords points="335,2717 2305,2717 2305,2893 335,2893"/>
+                <TextEquiv>
+                    <Unicode>uidua ꝺomina gen auꝫ p̄nceps pꝛo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575666502931_426" custom="readingOrder {index:5;} rubrication {offset:30; length:5;}">
+                <Coords points="343,3173 2324,3173 2324,3327 343,3327"/>
+                <TextEquiv>
+                    <Unicode>uinciaꝛ facta eſt ſub tributo Beth:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575666509007_432" custom="readingOrder {index:6;}">
+                <Coords points="286,3654 2335,3654 2335,3819 286,3819"/>
+                <TextEquiv>
+                    <Unicode>Ploꝛans ploꝛauit in nocte ilacri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lamē tatō: jereim e pꝛo phete:&#xD;
+Incipit lamentatio Jemie?&#xD;
+pꝛophe Aleph Quomoꝺo ſeꝺet&#xD;
+ſola ciuitas plena pplo facta eſt q̄ſi&#xD;
+uidua ꝺomina gen auꝫ p̄nceps pꝛo&#xD;
+uinciaꝛ facta eſt ſub tributo Beth:&#xD;
+Ploꝛans ploꝛauit in nocte ilacri</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

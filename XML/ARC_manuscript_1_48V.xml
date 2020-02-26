@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:49.953-04:00</Created>
+        <LastChange>2019-12-05T16:59:17.655+01:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802983" pageNr="115" tsid="20478165" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=LIUZDHLBCQJPYQKRDUNHCXVR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWFAVDHHNQSYNYTDZAWIDMRM" imageId="4155757"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_48V.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110946160" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1267,884 1267,3681 3321,3681 3321,884"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="1310,1226 1409,1221 1509,1216 1608,1213 1708,1209 1807,1205 1907,1202 2006,1199 2106,1196 2205,1194 2305,1193 2404,1192 2504,1192 2603,1192 2703,1193 2802,1194 2902,1196 3001,1198 3101,1202 3200,1205 3300,1210 3300,1072 3200,1067 3101,1064 3001,1060 2902,1058 2802,1056 2703,1055 2603,1054 2504,1054 2404,1054 2305,1055 2205,1056 2106,1058 2006,1061 1907,1064 1807,1067 1708,1071 1608,1075 1509,1078 1409,1083 1310,1088"/>
+                <Baseline points="1310,1180 1409,1175 1509,1170 1608,1167 1708,1163 1807,1159 1907,1156 2006,1153 2106,1150 2205,1148 2305,1147 2404,1146 2504,1146 2603,1146 2703,1147 2802,1148 2902,1150 3001,1152 3101,1156 3200,1159 3300,1164"/>
+                <TextEquiv>
+                    <Unicode>tres unꝫ triuꝫ unio imperialis unitas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575561248123_43" custom="readingOrder {index:1;} rubrication {offset:0; length:6;}">
+                <Coords points="3124,1329 3314,1329 3314,1684 3124,1684"/>
+                <TextEquiv>
+                    <Unicode>aꝺ lau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1310,1704 1408,1702 1506,1700 1605,1697 1703,1695 1801,1693 1900,1692 1998,1691 2096,1689 2195,1689 2293,1688 2391,1688 2490,1689 2588,1689 2686,1690 2785,1692 2883,1693 2981,1696 3080,1698 3178,1702 3104,1695 3104,1557 3178,1564 3080,1560 2981,1558 2883,1555 2785,1554 2686,1552 2588,1551 2490,1551 2391,1550 2293,1550 2195,1551 2096,1551 1998,1553 1900,1554 1801,1555 1703,1557 1605,1559 1506,1562 1408,1564 1310,1566"/>
+                <Baseline points="1310,1658 1408,1656 1506,1654 1605,1651 1703,1649 1801,1647 1900,1646 1998,1645 2096,1643 2195,1643 2293,1642 2391,1642 2490,1643 2588,1643 2686,1644 2785,1646 2883,1647 2981,1650 3080,1652 3178,1656 3277,1659"/>
+                <TextEquiv>
+                    <Unicode>in triuꝫ cōtubernio O pater ī naſ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="1465,2183 1557,2186 1649,2187 1741,2189 1833,2189 1925,2190 2017,2190 2109,2190 2201,2190 2293,2190 2385,2189 2477,2189 2569,2189 2661,2189 2753,2190 2845,2191 2937,2192 3029,2194 3121,2197 3213,2200 3305,2204 3305,2066 3213,2062 3121,2059 3029,2056 2937,2054 2845,2053 2753,2052 2661,2051 2569,2051 2477,2051 2385,2051 2293,2052 2201,2052 2109,2052 2017,2052 1925,2052 1833,2051 1741,2051 1649,2049 1557,2048 1465,2045"/>
+                <Baseline points="1465,2137 1557,2140 1649,2141 1741,2143 1833,2143 1925,2144 2017,2144 2109,2144 2201,2144 2293,2144 2385,2143 2477,2143 2569,2143 2661,2143 2753,2144 2845,2145 2937,2146 3029,2148 3121,2151 3213,2154 3305,2158"/>
+                <TextEquiv>
+                    <Unicode>Aeſti lauꝺes hoꝺierni ritu ꝺuctas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="1288,2663 1389,2667 1491,2670 1592,2673 1694,2676 1796,2679 1897,2681 1999,2683 2101,2685 2202,2687 2304,2688 2406,2690 2507,2691 2609,2692 2711,2693 2812,2694 2914,2694 3016,2695 3117,2695 3219,2695 3321,2695 3321,2557 3219,2557 3117,2557 3016,2557 2914,2556 2812,2556 2711,2555 2609,2554 2507,2553 2406,2552 2304,2550 2202,2549 2101,2547 1999,2545 1897,2543 1796,2541 1694,2538 1592,2535 1491,2532 1389,2529 1288,2525"/>
+                <Baseline points="1288,2617 1389,2621 1491,2624 1592,2627 1694,2630 1796,2633 1897,2635 1999,2637 2101,2639 2202,2641 2304,2642 2406,2644 2507,2645 2609,2646 2711,2647 2812,2648 2914,2648 3016,2649 3117,2649 3219,2649 3321,2649"/>
+                <TextEquiv>
+                    <Unicode>annuo ciues gauꝺio ſuꝑni celebꝛāt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="1338,3153 1439,3152 1540,3153 1641,3154 1742,3156 1843,3158 1944,3160 2045,3162 2146,3165 2247,3168 2348,3171 2449,3173 2550,3176 2651,3177 2752,3179 2853,3180 2954,3180 3055,3180 3156,3178 3257,3176 3257,3038 3156,3040 3055,3042 2954,3042 2853,3042 2752,3041 2651,3039 2550,3038 2449,3035 2348,3033 2247,3030 2146,3027 2045,3024 1944,3022 1843,3020 1742,3018 1641,3016 1540,3015 1439,3014 1338,3015"/>
+                <Baseline points="1338,3107 1439,3106 1540,3107 1641,3108 1742,3110 1843,3112 1944,3114 2045,3116 2146,3119 2247,3122 2348,3125 2449,3127 2550,3130 2651,3131 2752,3133 2853,3134 2954,3134 3055,3134 3156,3132 3257,3130"/>
+                <TextEquiv>
+                    <Unicode>ꝑpetuo regē trinū ꝺuꝫ tertrini choꝛi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;} rubrication {offset:0; length:21;}">
+                <Coords points="2749,3498 2777,3496 2806,3492 2834,3491 2863,3489 2892,3489 2920,3488 2949,3489 2977,3489 3006,3490 3035,3491 3063,3491 3092,3492 3120,3492 3149,3493 3178,3492 3206,3492 3235,3490 3263,3488 3292,3485 3321,3481 3321,3346 3292,3350 3263,3353 3235,3355 3206,3357 3178,3357 3149,3358 3120,3357 3092,3357 3063,3356 3035,3356 3006,3355 2977,3354 2949,3354 2920,3353 2892,3354 2863,3354 2834,3356 2806,3357 2777,3361 2749,3363"/>
+                <Baseline points="2749,3453 2777,3451 2806,3447 2834,3446 2863,3444 2892,3444 2920,3443 2949,3444 2977,3444 3006,3445 3035,3446 3063,3446 3092,3447 3120,3447 3149,3448 3178,3447 3206,3447 3235,3445 3263,3443 3292,3440 3321,3436"/>
+                <TextEquiv>
+                    <Unicode>ꝺe coꝛpoꝛe chꝛiſti hꝯ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;} rubrication {offset:14; length:1;}">
+                <Coords points="1267,3633 1365,3636 1463,3639 1561,3642 1660,3646 1758,3650 1856,3653 1955,3657 2053,3661 2151,3664 2250,3668 2348,3671 2446,3674 2544,3676 2643,3678 2741,3680 2839,3681 2938,3681 3036,3681 3134,3679 3233,3677 3233,3541 3134,3543 3036,3545 2938,3545 2839,3545 2741,3544 2643,3542 2544,3540 2446,3538 2348,3535 2250,3532 2151,3528 2053,3525 1955,3521 1856,3517 1758,3514 1660,3510 1561,3506 1463,3503 1365,3500 1267,3497"/>
+                <Baseline points="1267,3588 1365,3591 1463,3594 1561,3597 1660,3601 1758,3605 1856,3608 1955,3612 2053,3616 2151,3619 2250,3623 2348,3626 2446,3629 2544,3631 2643,3633 2741,3635 2839,3636 2938,3636 3036,3636 3134,3634 3233,3632"/>
+                <TextEquiv>
+                    <Unicode>lauꝺēt mutuo Vita melos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tres unꝫ triuꝫ unio imperialis unitas&#xD;
+aꝺ lau&#xD;
+in triuꝫ cōtubernio O pater ī naſ &#xD;
+Aeſti lauꝺes hoꝺierni ritu ꝺuctas&#xD;
+annuo ciues gauꝺio ſuꝑni celebꝛāt&#xD;
+ꝑpetuo regē trinū ꝺuꝫ tertrini choꝛi&#xD;
+ꝺe coꝛpoꝛe chꝛiſti hꝯ&#xD;
+lauꝺēt mutuo Vita melos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

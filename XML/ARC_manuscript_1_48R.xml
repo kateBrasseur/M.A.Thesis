@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:49.918-04:00</Created>
+        <LastChange>2019-10-23T02:06:36.730+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802982" pageNr="114" tsid="17548519" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=XRCDJPUUBWXVRADYHHTJWQXZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KCHHUTWATNDXDBNISRQBIWMB" imageId="4155756"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_48R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110945760" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="283,1116 283,3824 2444,3824 2444,1116"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="346,1258 450,1257 554,1258 658,1259 762,1261 866,1263 970,1266 1074,1269 1178,1272 1282,1276 1387,1280 1491,1283 1595,1287 1699,1290 1803,1294 1907,1297 2011,1299 2115,1301 2219,1303 2323,1304 2428,1304 2428,1163 2323,1163 2219,1162 2115,1160 2011,1158 1907,1156 1803,1153 1699,1149 1595,1146 1491,1142 1387,1139 1282,1135 1178,1131 1074,1128 970,1125 866,1122 762,1120 658,1118 554,1117 450,1116 346,1117"/>
+                <Baseline points="346,1211 450,1210 554,1211 658,1212 762,1214 866,1216 970,1219 1074,1222 1178,1225 1282,1229 1387,1233 1491,1236 1595,1240 1699,1243 1803,1247 1907,1250 2011,1252 2115,1254 2219,1256 2323,1257 2428,1257"/>
+                <TextEquiv>
+                    <Unicode>unꝺe uenerat ꝓmiſſuꝫ patris muēre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571774966764_1022" custom="readingOrder {index:1;} rubrication {offset:0; length:6;}">
+                <Coords points="2169,1466 2418,1466 2418,1795 2169,1795"/>
+                <TextEquiv>
+                    <Unicode>aꝺ lau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} rubrication {offset:22; length:1;}">
+                <Coords points="314,1764 416,1765 518,1766 620,1767 722,1769 824,1771 926,1773 1028,1775 1130,1777 1232,1780 1335,1782 1437,1784 1539,1787 1641,1789 1743,1791 1845,1794 1947,1796 2049,1797 2151,1799 2253,1800 2356,1801 2356,1662 2253,1661 2151,1660 2049,1658 1947,1657 1845,1655 1743,1652 1641,1650 1539,1648 1437,1645 1335,1643 1232,1641 1130,1638 1028,1636 926,1634 824,1632 722,1630 620,1628 518,1627 416,1626 314,1625"/>
+                <Baseline points="314,1718 416,1719 518,1720 620,1721 722,1723 824,1725 926,1727 1028,1729 1130,1731 1232,1734 1335,1736 1437,1738 1539,1741 1641,1743 1743,1745 1845,1748 1947,1750 2049,1751 2151,1753 2253,1754 2356,1755"/>
+                <TextEquiv>
+                    <Unicode>ſanctuꝫ ꝺaturus ſpīn Solenīs </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571774969108_1025" custom="readingOrder {index:3;} rubrication {offset:0; length:19;}">
+                <Coords points="1137,1884 1658,1884 1658,2301 1137,2301"/>
+                <TextEquiv>
+                    <Unicode>in feſto trini t̄us</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} rubrication {offset:0; length:1;} rubrication {offset:12; length:1;}">
+                <Coords points="346,2272 406,2273 467,2274 528,2275 589,2276 649,2277 710,2278 771,2279 832,2280 892,2281 953,2282 1014,2283 1075,2284 1135,2285 1196,2286 1257,2288 1318,2290 1378,2292 1439,2294 1500,2297 2438,2309 2438,2168 1500,2156 1439,2153 1378,2151 1318,2149 1257,2147 1196,2145 1135,2144 1075,2143 1014,2142 953,2141 892,2140 832,2139 771,2138 710,2137 649,2136 589,2135 528,2134 467,2133 406,2132 346,2131"/>
+                <Baseline points="346,2225 406,2226 467,2227 528,2228 589,2229 649,2230 710,2231 771,2232 832,2233 892,2234 953,2235 1014,2236 1075,2237 1135,2238 1196,2239 1257,2241 1318,2243 1378,2245 1439,2247 1500,2250 1561,2252"/>
+                <TextEquiv>
+                    <Unicode>Beata nobis In maieſ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="290,2783 397,2786 505,2788 613,2790 720,2792 828,2794 936,2796 1043,2798 1151,2800 1259,2802 1367,2803 1474,2805 1582,2807 1690,2808 1797,2809 1905,2810 2013,2811 2120,2812 2228,2813 2336,2813 2444,2814 2444,2673 2336,2672 2228,2672 2120,2671 2013,2670 1905,2669 1797,2668 1690,2667 1582,2666 1474,2664 1367,2662 1259,2661 1151,2659 1043,2657 936,2655 828,2653 720,2651 613,2649 505,2647 397,2645 290,2642"/>
+                <Baseline points="290,2736 397,2739 505,2741 613,2743 720,2745 828,2747 936,2749 1043,2751 1151,2753 1259,2755 1367,2756 1474,2758 1582,2760 1690,2761 1797,2762 1905,2763 2013,2764 2120,2765 2228,2766 2336,2766 2444,2767"/>
+                <TextEquiv>
+                    <Unicode>tatis ſolio tres ſeꝺēt intridinio naꝫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="283,3285 388,3289 494,3292 600,3294 706,3297 812,3299 918,3301 1024,3303 1130,3305 1236,3306 1342,3308 1447,3309 1553,3310 1659,3311 1765,3312 1871,3313 1977,3314 2083,3315 2189,3316 2295,3317 2401,3318 2401,3177 2295,3176 2189,3175 2083,3174 1977,3173 1871,3172 1765,3171 1659,3170 1553,3169 1447,3168 1342,3167 1236,3165 1130,3164 1024,3162 918,3160 812,3158 706,3156 600,3153 494,3151 388,3148 283,3144"/>
+                <Baseline points="283,3238 388,3242 494,3245 600,3247 706,3250 812,3252 918,3254 1024,3256 1130,3258 1236,3259 1342,3261 1447,3262 1553,3263 1659,3264 1765,3265 1871,3266 1977,3267 2083,3268 2189,3269 2295,3270 2401,3271"/>
+                <TextEquiv>
+                    <Unicode>nō eſt conſolatio perfecta ſolitario</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1571774973810_1028" custom="readingOrder {index:7;} rubrication {offset:0; length:6;}">
+                <Coords points="717,3406 1013,3406 1013,3779 717,3779"/>
+                <TextEquiv>
+                    <Unicode>aꝺ nō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;} rubrication {offset:0; length:1;} rubrication {offset:7; length:1;}">
+                <Coords points="258,3810 1241,3823 1301,3822 1360,3821 1420,3820 1480,3819 1539,3819 1599,3819 1659,3819 1718,3819 1778,3819 1838,3820 1897,3820 1957,3820 2017,3821 2076,3821 2136,3821 2196,3822 2255,3822 2315,3822 2375,3822 2375,3681 2315,3681 2255,3681 2196,3681 2136,3680 2076,3680 2017,3680 1957,3679 1897,3679 1838,3679 1778,3678 1718,3678 1659,3678 1599,3678 1539,3678 1480,3678 1420,3679 1360,3680 1301,3681 1241,3682 258,3669"/>
+                <Baseline points="1182,3777 1241,3776 1301,3775 1360,3774 1420,3773 1480,3772 1539,3772 1599,3772 1659,3772 1718,3772 1778,3772 1838,3773 1897,3773 1957,3773 2017,3774 2076,3774 2136,3774 2196,3775 2255,3775 2315,3775 2375,3775"/>
+                <TextEquiv>
+                    <Unicode>Eterne Olux beata trinitas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>unꝺe uenerat ꝓmiſſuꝫ patris muēre
+aꝺ lau
+ſanctuꝫ ꝺaturus ſpīn Solenīs 
+in feſto trini t̄us
+Beata nobis In maieſ
+tatis ſolio tres ſeꝺēt intridinio naꝫ
+nō eſt conſolatio perfecta ſolitario
+aꝺ nō
+Eterne Olux beata trinitas</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:49.333-04:00</Created>
+        <LastChange>2019-08-19T18:47:20.722+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802964" pageNr="96" tsid="14292576" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=RWBUEGRSOPKBHQWQEUFFSPFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KBHJDORHGTQIZICYWNOXZESC" imageId="4155738"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_41R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110941444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="307,1077 307,3987 2483,3987 2483,1077"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;} abbrev {offset:0; length:10;expansion:confitemini;} abbrev {offset:12; length:1;expansion:deus;} abbrev {offset:15; length:1;expansion:antiphonus;} rubrication {offset:15; length:1;} Drop-Capital {offset:17; length:1;} abbrev {offset:28; length:2;expansion:in;}">
+                <Coords points="336,1380 393,1371 451,1365 509,1360 566,1357 624,1355 682,1355 739,1356 797,1358 855,1361 913,1364 970,1367 1028,1370 1086,1374 1143,1377 1201,1379 1259,1380 1316,1381 1374,1381 1432,1379 2468,1398 2468,1274 1432,1255 1374,1257 1316,1257 1259,1256 1201,1255 1143,1253 1086,1250 1028,1246 970,1243 913,1240 855,1237 797,1234 739,1232 682,1231 624,1231 566,1233 509,1236 451,1241 393,1247 336,1256"/>
+                <Baseline points="307,1343 364,1334 422,1328 480,1323 537,1320 595,1318 653,1318 710,1319 768,1321 826,1324 884,1327 941,1330 999,1333 1057,1337 1114,1340 1172,1342 1230,1343 1287,1344 1345,1344 1403,1342 1461,1339"/>
+                <TextEquiv>
+                    <Unicode>cōfitemī. ꝺ. a In greꝺiar ī locuꝫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:1;} abbrev {offset:0; length:11;expansion:tabernaculi;} abbrev {offset:24; length:4;expansion:usque;}">
+                <Coords points="336,1863 443,1862 550,1861 658,1860 765,1860 872,1861 980,1862 1087,1863 1194,1864 1302,1866 1409,1868 1516,1870 1624,1872 1731,1874 1838,1876 1946,1877 2053,1879 2160,1881 2268,1882 2375,1882 2483,1883 2483,1766 2375,1765 2268,1765 2160,1764 2053,1762 1946,1760 1838,1759 1731,1757 1624,1755 1516,1753 1409,1751 1302,1749 1194,1747 1087,1746 980,1745 872,1744 765,1743 658,1743 550,1744 443,1745 336,1746"/>
+                <Baseline points="336,1824 443,1823 550,1822 658,1821 765,1821 872,1822 980,1823 1087,1824 1194,1825 1302,1827 1409,1829 1516,1831 1624,1833 1731,1835 1838,1837 1946,1838 2053,1840 2160,1842 2268,1843 2375,1843 2483,1844"/>
+                <TextEquiv>
+                    <Unicode>tabern̄culi aꝺmirabilis usqꝫ aꝺ ꝺo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:2;} abbrev {offset:8; length:3;expansion:psalmus;} rubrication {offset:8; length:3;} abbrev {offset:12; length:6;expansion:Quemad;} abbrev {offset:19; length:1;expansion:antiphonus;} rubrication {offset:19; length:1;} Drop-Capital {offset:21; length:1;} abbrev {offset:25; length:6;expansion:requies;}">
+                <Coords points="314,2363 377,2366 440,2368 503,2370 566,2371 629,2372 692,2373 755,2374 818,2374 881,2374 944,2375 1007,2375 1070,2375 1133,2376 1196,2376 1259,2377 1322,2378 1385,2379 1448,2381 1511,2383 2460,2385 2460,2261 1511,2259 1448,2257 1385,2255 1322,2254 1259,2253 1196,2252 1133,2252 1070,2251 1007,2251 944,2251 881,2250 818,2250 755,2250 692,2249 629,2248 566,2247 503,2246 440,2244 377,2242 314,2239"/>
+                <Baseline points="314,2322 377,2325 440,2327 503,2329 566,2330 629,2331 692,2332 755,2333 818,2333 881,2333 944,2334 1007,2334 1070,2334 1133,2335 1196,2335 1259,2336 1322,2337 1385,2338 1448,2340 1511,2342 1574,2344"/>
+                <TextEquiv>
+                    <Unicode>muꝫ ꝺei p̄s Quēaꝺ a Hec req'es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:3;} abbrev {offset:4; length:2;expansion:in;}">
+                <Coords points="307,2873 407,2874 508,2874 609,2875 710,2876 811,2876 912,2877 1013,2877 1114,2877 1215,2878 1316,2878 1416,2879 1517,2879 1618,2879 1719,2880 1820,2881 1921,2882 2022,2883 2123,2884 2224,2886 2325,2887 2325,2763 2224,2762 2123,2760 2022,2759 1921,2758 1820,2757 1719,2756 1618,2755 1517,2755 1416,2755 1316,2754 1215,2754 1114,2753 1013,2753 912,2753 811,2752 710,2752 609,2751 508,2750 407,2750 307,2749"/>
+                <Baseline points="307,2832 407,2833 508,2833 609,2834 710,2835 811,2835 912,2836 1013,2836 1114,2836 1215,2837 1316,2837 1416,2838 1517,2838 1618,2838 1719,2839 1820,2840 1921,2841 2022,2842 2123,2843 2224,2845 2325,2846"/>
+                <TextEquiv>
+                    <Unicode>mea ī ſeculuꝫ ſeculi hic habitabo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:4;} rubrication {offset:18; length:3;} abbrev {offset:18; length:3;expansion:psalmus;} abbrev {offset:24; length:7;expansion:demento;} abbrev {offset:32; length:1;expansion:antiphonus;} rubrication {offset:32; length:1;}">
+                <Coords points="317,3366 416,3369 516,3372 616,3374 715,3376 815,3378 915,3380 1014,3381 1114,3382 1214,3382 1314,3383 1413,3383 1513,3383 1613,3383 1712,3383 1812,3383 1912,3383 2011,3382 2111,3382 2211,3382 2311,3381 2311,3257 2211,3258 2111,3258 2011,3258 1912,3259 1812,3259 1712,3259 1613,3259 1513,3259 1413,3259 1314,3259 1214,3258 1114,3258 1014,3257 915,3256 815,3254 715,3252 616,3250 516,3248 416,3245 317,3242"/>
+                <Baseline points="317,3325 416,3328 516,3331 616,3333 715,3335 815,3337 915,3339 1014,3340 1114,3341 1214,3341 1314,3342 1413,3342 1513,3342 1613,3342 1712,3342 1812,3342 1912,3342 2011,3341 2111,3341 2211,3341 2311,3340"/>
+                <TextEquiv>
+                    <Unicode>quoniaꝫ elegi eaꝫ p̄s O demēto a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:5;} Drop-Capital {offset:0; length:1;} abbrev {offset:19; length:6;expansion:carnem;}">
+                <Coords points="315,3863 770,3870 850,3873 930,3875 1011,3876 1091,3877 1171,3878 1251,3878 1332,3879 1412,3879 1492,3879 1572,3878 1653,3878 1733,3877 1813,3876 1893,3875 1974,3874 2054,3873 2134,3872 2214,3871 2380,3876 2380,3752 2214,3747 2134,3748 2054,3749 1974,3750 1893,3751 1813,3752 1733,3753 1653,3754 1572,3754 1492,3755 1412,3755 1332,3755 1251,3754 1171,3754 1091,3753 1011,3752 930,3751 850,3749 770,3746 315,3739"/>
+                <Baseline points="690,3827 770,3829 850,3832 930,3834 1011,3835 1091,3836 1171,3837 1251,3837 1332,3838 1412,3838 1492,3838 1572,3837 1653,3837 1733,3836 1813,3835 1893,3834 1974,3833 2054,3832 2134,3831 2214,3830 2295,3830"/>
+                <TextEquiv>
+                    <Unicode>Detrra foꝛmaſti me carnē in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>cōfitemī. ꝺ. a In greꝺiar ī locuꝫ
+tabern̄culi aꝺmirabilis usqꝫ aꝺ ꝺo
+muꝫ ꝺei p̄s Quēaꝺ a Hec req'es
+mea ī ſeculuꝫ ſeculi hic habitabo
+quoniaꝫ elegi eaꝫ p̄s O demēto a
+Detrra foꝛmaſti me carnē in</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
