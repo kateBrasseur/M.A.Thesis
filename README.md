@@ -1,2 +1,2 @@
 # M.A.Thesis
-Gitbook for my M.A. Thesis
+Github for my M.A. Thesis
