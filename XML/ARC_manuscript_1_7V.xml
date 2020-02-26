@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Comb_Gothic_Script(htr_id=3156):Latin_wordlist_cc_200k.dict:::v=2.3.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:46.085-04:00</Created>
+        <LastChange>2019-07-10T15:21:42.412+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802810" pageNr="13" tsid="12628436" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=GULKFYGTXHHLOIFIUXIFJGJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVEBXZLDZNMLYJMZTZYVPGGA" imageId="4155639"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_7V.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110920947" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="969,1308 969,3964 3169,3964 3169,1308"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="998,1447 1099,1446 1200,1444 1302,1444 1403,1443 1505,1443 1606,1443 1707,1444 1809,1444 1910,1445 2012,1446 2113,1447 2214,1448 2316,1449 2417,1450 2519,1451 2620,1452 2721,1453 2823,1454 2924,1455 3026,1455 3026,1320 2924,1320 2823,1319 2721,1318 2620,1317 2519,1316 2417,1315 2316,1314 2214,1313 2113,1312 2012,1311 1910,1310 1809,1309 1707,1309 1606,1308 1505,1308 1403,1308 1302,1309 1200,1309 1099,1311 998,1312"/>
+                <Baseline points="998,1402 1099,1401 1200,1399 1302,1399 1403,1398 1505,1398 1606,1398 1707,1399 1809,1399 1910,1400 2012,1401 2113,1402 2214,1403 2316,1404 2417,1405 2519,1406 2620,1407 2721,1408 2823,1409 2924,1410 3026,1410"/>
+                <TextEquiv>
+                    <Unicode>terre et altitudines montium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} abbrev {offset:0; length:4;expansion:ipse;} abbrev {offset:15; length:1;expansion:Versus;} rubrication {offset:15; length:1;} Drop-Capital {offset:17; length:1;}">
+                <Coords points="1057,1942 1103,1942 1149,1942 1195,1942 1241,1942 1287,1942 1333,1942 1379,1941 1425,1941 1471,1941 1517,1941 1563,1940 1609,1940 1655,1940 1701,1940 1747,1940 1793,1941 1839,1941 1885,1941 1931,1942 3029,1939 3029,1804 1931,1807 1885,1806 1839,1806 1793,1806 1747,1805 1701,1805 1655,1805 1609,1805 1563,1805 1517,1806 1471,1806 1425,1806 1379,1806 1333,1807 1287,1807 1241,1807 1195,1807 1149,1807 1103,1807 1057,1807"/>
+                <Baseline points="1057,1897 1103,1897 1149,1897 1195,1897 1241,1897 1287,1897 1333,1897 1379,1896 1425,1896 1471,1896 1517,1896 1563,1895 1609,1895 1655,1895 1701,1895 1747,1895 1793,1896 1839,1896 1885,1896 1931,1897 1978,1898"/>
+                <TextEquiv>
+                    <Unicode>ip̄e conspicit Ꝟ Quoniam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="1046,2431 1152,2431 1258,2431 1364,2432 1470,2432 1576,2433 1682,2434 1789,2435 1895,2437 2001,2438 2107,2439 2213,2441 2319,2442 2425,2444 2532,2445 2638,2447 2744,2448 2850,2449 2956,2450 3062,2451 3169,2452 3169,2317 3062,2316 2956,2315 2850,2314 2744,2313 2638,2312 2532,2310 2425,2309 2319,2307 2213,2306 2107,2304 2001,2303 1895,2302 1789,2300 1682,2299 1576,2298 1470,2297 1364,2297 1258,2296 1152,2296 1046,2296"/>
+                <Baseline points="1046,2386 1152,2386 1258,2386 1364,2387 1470,2387 1576,2388 1682,2389 1789,2390 1895,2392 2001,2393 2107,2394 2213,2396 2319,2397 2425,2399 2532,2400 2638,2402 2744,2403 2850,2404 2956,2405 3062,2406 3169,2407"/>
+                <TextEquiv>
+                    <Unicode>ipsius est mare et ipse fecit illuꝺ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} abbrev {offset:10; length:11;expansion:fundauerunt;}">
+                <Coords points="977,2917 1078,2919 1179,2921 1281,2922 1382,2924 1484,2925 1585,2927 1686,2928 1788,2929 1889,2931 1991,2932 2092,2933 2193,2935 2295,2937 2396,2938 2498,2940 2599,2942 2700,2944 2802,2946 2903,2949 3005,2952 3005,2825 2903,2822 2802,2819 2700,2817 2599,2815 2498,2813 2396,2811 2295,2810 2193,2808 2092,2806 1991,2805 1889,2804 1788,2802 1686,2801 1585,2800 1484,2798 1382,2797 1281,2795 1179,2794 1078,2792 977,2790"/>
+                <Baseline points="977,2875 1078,2877 1179,2879 1281,2880 1382,2882 1484,2883 1585,2885 1686,2886 1788,2887 1889,2889 1991,2890 2092,2891 2193,2893 2295,2895 2396,2896 2498,2898 2599,2900 2700,2902 2802,2904 2903,2907 3005,2910"/>
+                <TextEquiv>
+                    <Unicode>et aridam funꝺauerūt manus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;} comment {offset:5; length:6;comment:Scribal\u0020hand\u0020change;} abbrev {offset:12; length:7;expansion:adoremus;} abbrev {offset:23; length:5; continued:true;expansion:procidamus;}">
+                <Coords points="969,3416 1069,3418 1169,3421 1269,3423 1370,3424 1470,3426 1570,3427 1671,3429 1771,3430 1871,3432 1972,3433 2072,3435 2172,3437 2272,3438 2373,3440 2473,3442 2573,3444 2674,3446 2774,3449 2874,3452 2975,3455 2975,3320 2874,3317 2774,3314 2674,3311 2573,3309 2473,3307 2373,3305 2272,3303 2172,3302 2072,3300 1972,3298 1871,3297 1771,3295 1671,3294 1570,3292 1470,3291 1370,3289 1269,3288 1169,3286 1069,3283 969,3281"/>
+                <Baseline points="969,3371 1069,3373 1169,3376 1269,3378 1370,3379 1470,3381 1570,3382 1671,3384 1771,3385 1871,3387 1972,3388 2072,3390 2172,3392 2272,3393 2373,3395 2473,3397 2573,3399 2674,3401 2774,3404 2874,3407 2975,3410"/>
+                <TextEquiv>
+                    <Unicode>eius Venite aꝺoꝛemꝰ et pꝛoci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;} abbrev {offset:0; length:4; continued:true;expansion:procidamus;} abbrev {offset:10; length:4;expansion:deum;} abbrev {offset:15; length:8;expansion:ploremus;} abbrev {offset:24; length:5;expansion:coram;}">
+                <Coords points="973,3911 1076,3915 1180,3919 1284,3923 1388,3927 1492,3930 1595,3932 1699,3935 1803,3937 1907,3939 2011,3941 2114,3943 2218,3945 2322,3947 2426,3949 2530,3950 2633,3953 2737,3955 2841,3958 2945,3961 3049,3964 3049,3829 2945,3826 2841,3823 2737,3820 2633,3818 2530,3815 2426,3814 2322,3812 2218,3810 2114,3808 2011,3806 1907,3804 1803,3802 1699,3800 1595,3797 1492,3795 1388,3792 1284,3788 1180,3784 1076,3780 973,3776"/>
+                <Baseline points="973,3866 1076,3870 1180,3874 1284,3878 1388,3882 1492,3885 1595,3887 1699,3890 1803,3892 1907,3894 2011,3896 2114,3898 2218,3900 2322,3902 2426,3904 2530,3905 2633,3908 2737,3910 2841,3913 2945,3916 3049,3919"/>
+                <TextEquiv>
+                    <Unicode>damꝰ ante deuꝫ ploꝛemuꝰ coꝛā</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>terre et altitudines montium
+ip̄e conspicit Ꝟ Quoniam
+ipsius est mare et ipse fecit illuꝺ
+et aridam funꝺauerūt manus
+eius Venite aꝺoꝛemꝰ et pꝛoci
+damꝰ ante deuꝫ ploꝛemuꝰ coꝛā</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

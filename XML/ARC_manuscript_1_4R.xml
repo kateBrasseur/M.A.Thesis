@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Comb_Gothic_Script(htr_id=3156):Latin_wordlist_cc_200k.dict:::v=2.3.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:45.714-04:00</Created>
+        <LastChange>2019-07-03T18:46:53.955+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802786" pageNr="6" tsid="12275529" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=YHNBBHHQLRJPDJRJSTTJCKUO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HLYGTHCRHOSUQJOINMQNSZAK" imageId="4155615"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_4R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110919151" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+                <RegionRefIndexed index="1" regionRef="region_1562171563440_387"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="424,758 414,3698 2360,3698 2370,758"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="421,1249 517,1250 614,1252 711,1253 807,1254 904,1255 1001,1256 1097,1257 1194,1258 1291,1259 1388,1259 1484,1260 1581,1260 1678,1260 1774,1260 1871,1260 1968,1260 2064,1260 2161,1259 2258,1258 2355,1257 2355,1107 2258,1108 2161,1109 2064,1110 1968,1110 1871,1110 1774,1110 1678,1110 1581,1110 1484,1110 1388,1109 1291,1109 1194,1108 1097,1107 1001,1106 904,1105 807,1104 711,1103 614,1102 517,1100 421,1099"/>
+                <Baseline points="421,1199 517,1200 614,1202 711,1203 807,1204 904,1205 1001,1206 1097,1207 1194,1208 1291,1209 1388,1209 1484,1210 1581,1210 1678,1210 1774,1210 1871,1210 1968,1210 2064,1210 2161,1209 2258,1208 2355,1207"/>
+                <TextEquiv>
+                    <Unicode>iubilems deo salutari nostro pre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;} abbrev {offset:0; length:8;expansion:occupemus;} abbrev {offset:24; length:8;expansion:confessi;}">
+                <Coords points="409,1717 1559,1738 1594,1738 1629,1739 1664,1739 1699,1739 1733,1739 1768,1739 1803,1739 1838,1739 1873,1739 1907,1738 1942,1738 1977,1738 2012,1737 2047,1737 2081,1736 2116,1736 2151,1735 2186,1735 2336,1734 2336,1584 2186,1585 2151,1585 2116,1586 2081,1586 2047,1587 2012,1587 1977,1588 1942,1588 1907,1588 1873,1589 1838,1589 1803,1589 1768,1589 1733,1589 1699,1589 1664,1589 1629,1589 1594,1588 1559,1588 409,1567"/>
+                <Baseline points="1525,1687 1559,1688 1594,1688 1629,1689 1664,1689 1699,1689 1733,1689 1768,1689 1803,1689 1838,1689 1873,1689 1907,1688 1942,1688 1977,1688 2012,1687 2047,1687 2081,1686 2116,1686 2151,1685 2186,1685 2221,1684"/>
+                <TextEquiv>
+                    <Unicode>o cupemꝰ faciem eius in cōfessi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:2;} abbrev {offset:18; length:8;expansion:iubilemus;} rubrication {offset:30; length:1;} abbrev {offset:30; length:1;expansion:versus;}">
+                <Coords points="395,2202 1530,2207 1568,2208 1606,2208 1644,2209 1681,2209 1719,2209 1757,2210 1795,2210 1832,2210 1870,2210 1908,2210 1946,2210 1983,2210 2021,2211 2059,2211 2097,2211 2134,2211 2172,2212 2210,2212 2441,2218 2441,2068 2210,2062 2172,2062 2134,2061 2097,2061 2059,2061 2021,2061 1983,2060 1946,2060 1908,2060 1870,2060 1832,2060 1795,2060 1757,2060 1719,2059 1681,2059 1644,2059 1606,2058 1568,2058 1530,2057 395,2052"/>
+                <Baseline points="1493,2157 1530,2157 1568,2158 1606,2158 1644,2159 1681,2159 1719,2159 1757,2160 1795,2160 1832,2160 1870,2160 1908,2160 1946,2160 1983,2160 2021,2161 2059,2161 2097,2161 2134,2161 2172,2162 2210,2162 2248,2163"/>
+                <TextEquiv>
+                    <Unicode>one et in psalmis iubilemꝰ ei Ꝟ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:3;} abbrev {offset:0; length:7;expansion:Quoniam;} Drop-Capital {offset:0; length:1;} abbrev {offset:13; length:5;expansion:magnus;} abbrev {offset:19; length:6;expansion:dominus;}">
+                <Coords points="395,2695 691,2697 773,2695 856,2693 938,2691 1021,2691 1103,2690 1185,2690 1268,2691 1350,2691 1433,2692 1515,2692 1597,2693 1680,2693 1762,2693 1845,2693 1927,2692 2009,2691 2092,2689 2174,2687 2452,2693 2452,2543 2174,2537 2092,2539 2009,2541 1927,2542 1845,2543 1762,2543 1680,2543 1597,2543 1515,2542 1433,2542 1350,2541 1268,2541 1185,2540 1103,2540 1021,2541 938,2541 856,2543 773,2545 691,2547 395,2545"/>
+                <Baseline points="609,2650 691,2647 773,2645 856,2643 938,2641 1021,2641 1103,2640 1185,2640 1268,2641 1350,2641 1433,2642 1515,2642 1597,2643 1680,2643 1762,2643 1845,2643 1927,2642 2009,2641 2092,2639 2174,2637 2257,2633"/>
+                <TextEquiv>
+                    <Unicode>Quoniaꝫ deus magnꝰ dominꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:4;}">
+                <Coords points="376,3153 514,3155 607,3156 700,3157 793,3158 886,3159 979,3159 1072,3160 1165,3160 1258,3160 1352,3160 1445,3160 1538,3161 1631,3161 1724,3161 1817,3162 1910,3162 2003,3163 2096,3164 2189,3166 2388,3167 2388,3017 2189,3016 2096,3014 2003,3013 1910,3012 1817,3012 1724,3011 1631,3011 1538,3011 1445,3010 1352,3010 1258,3010 1165,3010 1072,3010 979,3009 886,3009 793,3008 700,3007 607,3006 514,3005 376,3003"/>
+                <Baseline points="421,3103 514,3105 607,3106 700,3107 793,3108 886,3109 979,3109 1072,3110 1165,3110 1258,3110 1352,3110 1445,3110 1538,3111 1631,3111 1724,3111 1817,3112 1910,3112 2003,3113 2096,3114 2189,3116 2283,3117"/>
+                <TextEquiv>
+                    <Unicode>et rex magnus super omnes de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:5;} abbrev {offset:11; length:3;expansion:non;} abbrev {offset:24; length:6;expansion:dominus;}">
+                <Coords points="409,3629 500,3627 592,3626 683,3626 775,3626 867,3626 958,3627 1050,3628 1141,3629 1233,3630 1325,3631 1416,3633 1508,3634 1599,3634 1691,3635 1783,3635 1874,3634 1966,3633 2057,3631 2149,3629 2371,3626 2371,3476 2149,3479 2057,3481 1966,3483 1874,3484 1783,3485 1691,3485 1599,3484 1508,3484 1416,3483 1325,3481 1233,3480 1141,3479 1050,3478 958,3477 867,3476 775,3476 683,3476 592,3476 500,3477 409,3479"/>
+                <Baseline points="409,3579 500,3577 592,3576 683,3576 775,3576 867,3576 958,3577 1050,3578 1141,3579 1233,3580 1325,3581 1416,3583 1508,3584 1599,3584 1691,3585 1783,3585 1874,3584 1966,3583 2057,3581 2149,3579 2241,3576"/>
+                <TextEquiv>
+                    <Unicode>os quoniam n̄o repellet dominꝰ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>iubilems deo salutari nostro pre
+o cupemꝰ faciem eius in cōfessi
+one et in psalmis iubilemꝰ ei Ꝟ
+Quoniaꝫ deus magnꝰ dominꝰ
+et rex magnus super omnes de
+os quoniam n̄o repellet dominꝰ</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1562171563440_387" custom="readingOrder {index:1;} structure {type:fragment;}">
+            <Coords points="2858,4399 131,4399 131,3724 2858,3724"/>
+        </TextRegion>
+    </Page>
+</PcGts>

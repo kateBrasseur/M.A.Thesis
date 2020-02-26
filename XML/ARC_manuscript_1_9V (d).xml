@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-06-24T12:39:46.372-04:00</Created>
+        <LastChange>2019-07-03T17:12:32.514+02:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802828" pageNr="19" tsid="12273709" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=UVNPNATUQFBCWGROQALKYUZG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UMJOXKGYGZDTEDXUHKCQBJND" imageId="4155657"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_9V (d).JPG" imageWidth="3456" imageHeight="5184"/>
+</PcGts>
