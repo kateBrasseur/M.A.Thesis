@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:50.213-04:00</Created>
+        <LastChange>2019-12-05T18:22:58.359+01:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802990" pageNr="122" tsid="20483091" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=QJAXDNRWUFNAAGKEHCKHZGVZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OXWJWIQPHWYYRUNSYPEPPUWH" imageId="4155764"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_51V.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110947943" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1204,1058 1204,3794 3274,3794 3274,1058"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1240,1220 1338,1218 1436,1216 1534,1214 1632,1212 1730,1210 1828,1208 1926,1207 2024,1206 2122,1205 2221,1205 2319,1206 2417,1207 2515,1209 2613,1212 2711,1216 2809,1220 2907,1227 3005,1234 3103,1243 3202,1253 3202,1106 3103,1096 3005,1087 2907,1080 2809,1073 2711,1069 2613,1065 2515,1062 2417,1060 2319,1059 2221,1058 2122,1058 2024,1059 1926,1060 1828,1061 1730,1063 1632,1065 1534,1067 1436,1069 1338,1071 1240,1073"/>
+                <Baseline points="1240,1171 1338,1169 1436,1167 1534,1165 1632,1163 1730,1161 1828,1159 1926,1158 2024,1157 2122,1156 2221,1156 2319,1157 2417,1158 2515,1160 2613,1163 2711,1167 2809,1171 2907,1178 3005,1185 3103,1194 3202,1204"/>
+                <TextEquiv>
+                    <Unicode>noꝛ poteſtas ſcōqꝫ ſpiritui ſit trini</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1236,1727 1289,1726 1343,1725 1396,1724 1450,1723 1504,1722 1557,1722 1611,1721 1665,1721 1718,1721 1772,1720 1826,1720 1879,1720 1933,1720 1987,1720 2040,1721 2094,1721 2148,1722 2201,1723 2255,1723 3234,1730 3234,1583 2255,1576 2201,1576 2148,1575 2094,1574 2040,1574 1987,1573 1933,1573 1879,1573 1826,1573 1772,1573 1718,1574 1665,1574 1611,1574 1557,1575 1504,1575 1450,1576 1396,1577 1343,1578 1289,1579 1236,1580"/>
+                <Baseline points="1236,1678 1289,1677 1343,1676 1396,1675 1450,1674 1504,1673 1557,1673 1611,1672 1665,1672 1718,1672 1772,1671 1826,1671 1879,1671 1933,1671 1987,1671 2040,1672 2094,1672 2148,1673 2201,1674 2255,1674 2309,1675"/>
+                <TextEquiv>
+                    <Unicode>tati ſalꝯ inꝺiu'dua ꝑ infinita ſecloꝛ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575566481392_324" custom="readingOrder {index:2;} rubrication {offset:0; length:6;}">
+                <Coords points="1952,1843 2205,1843 2205,2219 1952,2219"/>
+                <TextEquiv>
+                    <Unicode>aꝺ lau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;} rubrication {offset:7; length:1;} rubrication {offset:12; length:1;}">
+                <Coords points="1208,2227 1250,2229 1293,2231 1336,2232 1379,2233 1422,2235 1464,2235 1507,2236 1550,2237 1593,2238 1636,2238 1678,2238 1721,2239 1764,2239 1807,2239 1850,2240 1892,2240 1935,2240 1978,2241 2021,2241 3253,2263 3253,2116 2021,2094 1978,2094 1935,2093 1892,2093 1850,2093 1807,2092 1764,2092 1721,2092 1678,2091 1636,2091 1593,2091 1550,2090 1507,2089 1464,2088 1422,2088 1379,2086 1336,2085 1293,2084 1250,2082 1208,2080"/>
+                <Baseline points="1208,2178 1250,2180 1293,2182 1336,2183 1379,2184 1422,2186 1464,2186 1507,2187 1550,2188 1593,2189 1636,2189 1678,2189 1721,2190 1764,2190 1807,2190 1850,2191 1892,2191 1935,2191 1978,2192 2021,2192 2064,2193"/>
+                <TextEquiv>
+                    <Unicode>ſecla A_mē I am bone paſtoꝛ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="1226,2732 1324,2734 1423,2737 1521,2740 1620,2744 1719,2747 1817,2750 1916,2754 2014,2757 2113,2760 2212,2763 2310,2766 2409,2768 2507,2770 2606,2772 2705,2772 2803,2773 2902,2772 3000,2771 3099,2769 3198,2766 3198,2619 3099,2622 3000,2624 2902,2625 2803,2626 2705,2625 2606,2625 2507,2623 2409,2621 2310,2619 2212,2616 2113,2613 2014,2610 1916,2607 1817,2603 1719,2600 1620,2597 1521,2593 1423,2590 1324,2587 1226,2585"/>
+                <Baseline points="1226,2683 1324,2685 1423,2688 1521,2691 1620,2695 1719,2698 1817,2701 1916,2705 2014,2708 2113,2711 2212,2714 2310,2717 2409,2719 2507,2721 2606,2723 2705,2723 2803,2724 2902,2723 3000,2722 3099,2720 3198,2717"/>
+                <TextEquiv>
+                    <Unicode>petre clemēs accipe uota p̄cātum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="1204,3236 1305,3242 1407,3246 1509,3251 1611,3257 1713,3261 1815,3265 1916,3269 2018,3273 2120,3276 2222,3279 2324,3281 2426,3283 2528,3284 2629,3285 2731,3285 2833,3284 2935,3283 3037,3280 3139,3277 3241,3273 3241,3126 3139,3130 3037,3133 2935,3136 2833,3137 2731,3138 2629,3138 2528,3137 2426,3136 2324,3134 2222,3132 2120,3129 2018,3126 1916,3122 1815,3118 1713,3114 1611,3110 1509,3104 1407,3099 1305,3095 1204,3089"/>
+                <Baseline points="1204,3187 1305,3193 1407,3197 1509,3202 1611,3208 1713,3212 1815,3216 1916,3220 2018,3224 2120,3227 2222,3230 2324,3232 2426,3234 2528,3235 2629,3236 2731,3236 2833,3235 2935,3234 3037,3231 3139,3228 3241,3224"/>
+                <TextEquiv>
+                    <Unicode>et peccati uīcula reſolue tibi poteſ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="1207,3734 1307,3738 1407,3743 1507,3749 1607,3754 1707,3760 1807,3765 1907,3771 2007,3776 2107,3780 2208,3784 2308,3788 2408,3791 2508,3793 2608,3794 2708,3794 2808,3793 2908,3791 3008,3787 3108,3782 3209,3776 3209,3629 3108,3635 3008,3640 2908,3644 2808,3646 2708,3647 2608,3647 2508,3646 2408,3644 2308,3641 2208,3637 2107,3633 2007,3629 1907,3624 1807,3618 1707,3613 1607,3607 1507,3602 1407,3596 1307,3591 1207,3587"/>
+                <Baseline points="1207,3685 1307,3689 1407,3694 1507,3700 1607,3705 1707,3711 1807,3716 1907,3722 2007,3727 2107,3731 2208,3735 2308,3739 2408,3742 2508,3744 2608,3745 2708,3745 2808,3744 2908,3742 3008,3738 3108,3733 3209,3727"/>
+                <TextEquiv>
+                    <Unicode>tate tradita q̄ cūctis celuꝫ uerbo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>noꝛ poteſtas ſcōqꝫ ſpiritui ſit trini&#xD;
+tati ſalꝯ inꝺiu'dua ꝑ infinita ſecloꝛ&#xD;
+aꝺ lau&#xD;
+ſecla A_mē I am bone paſtoꝛ&#xD;
+petre clemēs accipe uota p̄cātum&#xD;
+et peccati uīcula reſolue tibi poteſ&#xD;
+tate tradita q̄ cūctis celuꝫ uerbo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

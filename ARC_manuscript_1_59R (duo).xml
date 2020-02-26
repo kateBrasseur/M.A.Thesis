@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:50.890-04:00</Created>
+        <LastChange>2019-12-06T21:30:36.839+01:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6803010" pageNr="142" tsid="20578731" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=YKCVULZVQIBAEIEKEHNDYCWM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BZGOFINHZHFKRVMNQDVNTBCN" imageId="4155784"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_59R (duo).JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110952764" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="206,903 206,3910 2416,3910 2416,903"/>
+            <TextLine id="line_1575663816033_38" custom="readingOrder {index:0;} rubrication {offset:0; length:6;}">
+                <Coords points="1570,866 1820,866 1820,1226 1570,1226"/>
+                <TextEquiv>
+                    <Unicode>aꝺ nō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} rubrication {offset:13; length:1;} rubrication {offset:21; length:1;}">
+                <Coords points="298,1159 341,1160 385,1161 429,1161 472,1162 516,1163 560,1164 603,1164 647,1165 691,1167 735,1168 778,1170 822,1171 866,1174 909,1176 953,1180 997,1183 1040,1187 1084,1192 1128,1197 2361,1254 2361,1112 1128,1055 1084,1050 1040,1045 997,1041 953,1038 909,1034 866,1032 822,1029 778,1028 735,1026 691,1025 647,1023 603,1022 560,1022 516,1021 472,1020 429,1019 385,1019 341,1018 298,1017"/>
+                <Baseline points="298,1112 341,1113 385,1114 429,1114 472,1115 516,1116 560,1117 603,1117 647,1118 691,1120 735,1121 778,1123 822,1124 866,1127 909,1129 953,1133 997,1136 1040,1140 1084,1145 1128,1150 1172,1155"/>
+                <TextEquiv>
+                    <Unicode>genꝯ optimuꝫ Hi ſūt Eterna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575663846817_50" custom="readingOrder {index:2;} rubrication {offset:0; length:6;}">
+                <Coords points="446,1313 699,1313 699,1714 446,1714"/>
+                <TextEquiv>
+                    <Unicode>aꝺ lau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:3;} rubrication {offset:5; length:1;}">
+                <Coords points="245,1693 270,1693 296,1693 321,1693 347,1693 372,1693 398,1693 423,1693 449,1693 475,1693 500,1694 526,1695 551,1696 577,1697 602,1700 628,1703 653,1706 679,1710 2410,1783 2410,1641 679,1568 653,1564 628,1561 602,1558 577,1555 551,1554 526,1553 500,1552 475,1551 449,1551 423,1551 398,1551 372,1551 347,1551 321,1551 296,1551 270,1551 245,1551"/>
+                <Baseline points="245,1646 270,1646 296,1646 321,1646 347,1646 372,1646 398,1646 423,1646 449,1646 475,1646 500,1647 526,1648 551,1649 577,1650 602,1653 628,1656 653,1659 679,1663 705,1668"/>
+                <TextEquiv>
+                    <Unicode>xp̄i Rex glioſe martiꝛ coꝛona</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:4;}">
+                <Coords points="223,2226 332,2228 442,2231 551,2234 661,2237 771,2241 880,2245 990,2249 1100,2254 1209,2258 1319,2264 1429,2268 1538,2273 1648,2278 1758,2283 1867,2288 1977,2292 2087,2298 2196,2302 2306,2306 2416,2310 2416,2168 2306,2164 2196,2160 2087,2156 1977,2150 1867,2146 1758,2141 1648,2136 1538,2131 1429,2126 1319,2122 1209,2116 1100,2112 990,2107 880,2103 771,2099 661,2095 551,2092 442,2089 332,2086 223,2084"/>
+                <Baseline points="223,2179 332,2181 442,2184 551,2187 661,2190 771,2194 880,2198 990,2202 1100,2207 1209,2211 1319,2217 1429,2221 1538,2226 1648,2231 1758,2236 1867,2241 1977,2245 2087,2251 2196,2255 2306,2259 2416,2263"/>
+                <TextEquiv>
+                    <Unicode>cōfitētiuꝫ qui reſpuētes terrena per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575664118640_82" custom="readingOrder {index:5;} rubrication {offset:0; length:27;}">
+                <Coords points="1603,2383 2440,2383 2440,2821 1603,2821"/>
+                <TextEquiv>
+                    <Unicode>In nat cōfeſ ſoꝛis pōtifi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:6;} rubrication {offset:18; length:1;}">
+                <Coords points="206,2769 313,2771 421,2774 528,2777 636,2780 744,2783 851,2786 959,2789 1066,2793 1174,2796 1282,2800 1389,2804 1497,2807 1604,2811 1712,2814 1820,2817 1927,2821 2035,2824 2142,2827 2250,2830 1618,2812 1618,2670 2250,2688 2142,2685 2035,2682 1927,2679 1820,2675 1712,2672 1604,2669 1497,2665 1389,2662 1282,2658 1174,2654 1066,2651 959,2647 851,2644 744,2641 636,2638 528,2635 421,2632 313,2629 206,2627"/>
+                <Baseline points="206,2722 313,2724 421,2727 528,2730 636,2733 744,2736 851,2739 959,2742 1066,2746 1174,2749 1282,2753 1389,2757 1497,2760 1604,2764 1712,2767 1820,2770 1927,2774 2035,2777 2142,2780 2250,2783 2358,2785"/>
+                <TextEquiv>
+                    <Unicode>ꝺucis aꝺ celeſtia Aurē </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:7;} rubrication {offset:0; length:1;}">
+                <Coords points="207,3319 491,3323 590,3325 689,3328 788,3332 887,3335 986,3338 1086,3342 1185,3345 1284,3348 1383,3351 1482,3354 1581,3357 1680,3360 1780,3363 1879,3366 1978,3368 2077,3371 2176,3373 2275,3375 2375,3377 2375,3235 2275,3233 2176,3231 2077,3229 1978,3226 1879,3224 1780,3221 1680,3218 1581,3215 1482,3212 1383,3209 1284,3206 1185,3203 1086,3200 986,3196 887,3193 788,3190 689,3186 590,3183 491,3181 207,3177"/>
+                <Baseline points="392,3272 491,3276 590,3278 689,3281 788,3285 887,3288 986,3291 1086,3295 1185,3298 1284,3301 1383,3304 1482,3307 1581,3310 1680,3313 1780,3316 1879,3319 1978,3321 2077,3324 2176,3326 2275,3328 2375,3330"/>
+                <TextEquiv>
+                    <Unicode>Iſte cōfeſſoꝛ ꝺomini ſacratꝯ feſta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575664212723_100" custom="readingOrder {index:8;}">
+                <Coords points="1568,3571 1537,3571 1537,3584 1568,3584"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:9;}">
+                <Coords points="212,3864 320,3869 428,3874 536,3879 644,3882 753,3887 861,3890 969,3894 1077,3896 1185,3899 1294,3902 1402,3904 1510,3906 1618,3907 1726,3908 1835,3909 1943,3910 2051,3910 2159,3909 2267,3909 2376,3908 2376,3766 2267,3767 2159,3767 2051,3768 1943,3768 1835,3767 1726,3766 1618,3765 1510,3764 1402,3762 1294,3760 1185,3757 1077,3754 969,3752 861,3748 753,3745 644,3740 536,3737 428,3732 320,3727 212,3722"/>
+                <Baseline points="212,3817 320,3822 428,3827 536,3832 644,3835 753,3840 861,3843 969,3847 1077,3849 1185,3852 1294,3855 1402,3857 1510,3859 1618,3860 1726,3861 1835,3862 1943,3863 2051,3863 2159,3862 2267,3862 2376,3861"/>
+                <TextEquiv>
+                    <Unicode>plebs cuiꝯ celebꝛat ꝑ oꝛbē hoꝺie lec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>aꝺ nō&#xD;
+genꝯ optimuꝫ Hi ſūt Eterna&#xD;
+aꝺ lau&#xD;
+xp̄i Rex glioſe martiꝛ coꝛona&#xD;
+cōfitētiuꝫ qui reſpuētes terrena per&#xD;
+In nat cōfeſ ſoꝛis pōtifi&#xD;
+ꝺucis aꝺ celeſtia Aurē &#xD;
+Iſte cōfeſſoꝛ ꝺomini ſacratꝯ feſta&#xD;
+&#xD;
+plebs cuiꝯ celebꝛat ꝑ oꝛbē hoꝺie lec</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

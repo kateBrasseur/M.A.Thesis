@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:50.357-04:00</Created>
+        <LastChange>2019-12-05T18:30:42.964+01:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6802993" pageNr="125" tsid="20483447" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=QDLOCZGUBPONFXRDLOXBDGKB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGXWBAAWWSIKPZZFRFZALRBI" imageId="4155767"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_52R (duo).JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110948634" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="296,1212 296,3782 2226,3782 2226,1212"/>
+            <TextLine id="line_1575566741992_358" custom="readingOrder {index:0;} rubrication {offset:0; length:27;}">
+                <Coords points="1649,993 2288,993 2288,1362 1649,1362"/>
+                <TextEquiv>
+                    <Unicode>īſcī āton ii aꝺ ueſ. hyꝯ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;} rubrication {offset:16; length:1;}">
+                <Coords points="321,1379 358,1375 395,1373 433,1369 470,1367 507,1366 545,1364 582,1363 619,1362 657,1362 694,1362 731,1362 769,1363 806,1363 843,1364 881,1364 918,1365 955,1366 993,1367 1030,1368 1677,1374 1677,1224 1030,1218 993,1217 955,1216 918,1215 881,1214 843,1214 806,1213 769,1213 731,1212 694,1212 657,1212 619,1212 582,1213 545,1214 507,1216 470,1217 433,1219 395,1223 358,1225 321,1229"/>
+                <Baseline points="321,1329 358,1325 395,1323 433,1319 470,1317 507,1316 545,1314 582,1313 619,1312 657,1312 694,1312 731,1312 769,1313 806,1313 843,1314 881,1314 918,1315 955,1316 993,1317 1030,1318 1068,1319"/>
+                <TextEquiv>
+                    <Unicode>claud's a peris Sit tinitati </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;} rubrication {offset:0; length:1;}">
+                <Coords points="525,1852 607,1849 690,1846 773,1844 856,1843 939,1843 1022,1842 1104,1843 1187,1844 1270,1845 1353,1846 1436,1848 1519,1849 1602,1850 1684,1851 1767,1853 1850,1853 1933,1854 2016,1854 2099,1853 2182,1852 2182,1702 2099,1703 2016,1704 1933,1704 1850,1703 1767,1703 1684,1701 1602,1700 1519,1699 1436,1698 1353,1696 1270,1695 1187,1694 1104,1693 1022,1692 939,1693 856,1693 773,1694 690,1696 607,1699 525,1702"/>
+                <Baseline points="525,1802 607,1799 690,1796 773,1794 856,1793 939,1793 1022,1792 1104,1793 1187,1794 1270,1795 1353,1796 1436,1798 1519,1799 1602,1800 1684,1801 1767,1803 1850,1803 1933,1804 2016,1804 2099,1803 2182,1802"/>
+                <TextEquiv>
+                    <Unicode>Engratulemur hodie xpo regi iocuꝫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="310,2322 400,2321 490,2321 580,2321 670,2321 761,2322 851,2322 941,2323 1031,2323 1121,2324 1212,2325 1302,2326 1392,2327 1482,2327 1572,2328 1663,2329 1753,2329 1843,2330 1933,2330 2023,2330 2114,2330 2114,2180 2023,2180 1933,2180 1843,2180 1753,2179 1663,2179 1572,2178 1482,2177 1392,2177 1302,2176 1212,2175 1121,2174 1031,2173 941,2173 851,2172 761,2172 670,2171 580,2171 490,2171 400,2171 310,2172"/>
+                <Baseline points="310,2272 400,2271 490,2271 580,2271 670,2271 761,2272 851,2272 941,2273 1031,2273 1121,2274 1212,2275 1302,2276 1392,2277 1482,2277 1572,2278 1663,2279 1753,2279 1843,2280 1933,2280 2023,2280 2114,2280"/>
+                <TextEquiv>
+                    <Unicode>ꝺiꝯ cuiꝯ aula gloꝛie iaꝫ iubilat an_</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575566930864_388" custom="readingOrder {index:4;} rubrication {offset:0; length:6;}">
+                <Coords points="1049,2467 1265,2467 1265,2772 1049,2772"/>
+                <TextEquiv>
+                    <Unicode>aꝺ nō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;} rubrication {offset:6; length:3;} rubrication {offset:18; length:1;}">
+                <Coords points="303,2809 328,2809 353,2808 378,2808 403,2808 428,2808 453,2808 478,2808 503,2808 528,2808 553,2808 2271,2809 2271,2659 553,2658 528,2658 503,2658 478,2658 453,2658 428,2658 403,2658 378,2658 353,2658 328,2659 303,2659"/>
+                <Baseline points="303,2759 328,2759 353,2758 378,2758 403,2758 428,2758 453,2758 478,2758 503,2758 528,2758 553,2758 578,2757"/>
+                <TextEquiv>
+                    <Unicode>toniꝯ E/Frāciſci Laus regi plena</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="321,3278 376,3279 431,3280 486,3281 541,3282 597,3283 652,3284 707,3285 762,3286 817,3286 873,3287 928,3287 983,3288 1038,3288 1093,3288 1149,3287 1204,3287 1259,3286 1314,3285 1369,3283 2266,3279 2266,3129 1369,3133 1314,3135 1259,3136 1204,3137 1149,3137 1093,3138 1038,3138 983,3138 928,3137 873,3137 817,3136 762,3136 707,3135 652,3134 597,3133 541,3132 486,3131 431,3130 376,3129 321,3128"/>
+                <Baseline points="321,3228 376,3229 431,3230 486,3231 541,3232 597,3233 652,3234 707,3235 762,3236 817,3236 873,3237 928,3237 983,3238 1038,3238 1093,3238 1149,3237 1204,3237 1259,3236 1314,3235 1369,3233 1425,3232"/>
+                <TextEquiv>
+                    <Unicode>gauꝺio que merces militantiuꝫ ſeip</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;} rubrication {offset:35; length:1;}">
+                <Coords points="296,3774 387,3777 478,3780 569,3781 661,3782 752,3782 843,3781 934,3780 1026,3778 1117,3776 1208,3774 1299,3772 1391,3770 1482,3768 1573,3766 1664,3765 1756,3764 1847,3764 1938,3765 2029,3767 2121,3769 2121,3619 2029,3617 1938,3615 1847,3614 1756,3614 1664,3615 1573,3616 1482,3618 1391,3620 1299,3622 1208,3624 1117,3626 1026,3628 934,3630 843,3631 752,3632 661,3632 569,3631 478,3630 387,3627 296,3624"/>
+                <Baseline points="296,3724 387,3727 478,3730 569,3731 661,3732 752,3732 843,3731 934,3730 1026,3728 1117,3726 1208,3724 1299,3722 1391,3720 1482,3718 1573,3716 1664,3715 1756,3714 1847,3714 1938,3715 2029,3717 2121,3719"/>
+                <TextEquiv>
+                    <Unicode>fuꝫ ꝺat antonio militie ſtipēꝺiuꝫ In</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>īſcī āton ii aꝺ ueſ. hyꝯ&#xD;
+claud's a peris Sit tinitati &#xD;
+Engratulemur hodie xpo regi iocuꝫ&#xD;
+ꝺiꝯ cuiꝯ aula gloꝛie iaꝫ iubilat an_&#xD;
+aꝺ nō&#xD;
+toniꝯ E/Frāciſci Laus regi plena&#xD;
+gauꝺio que merces militantiuꝫ ſeip&#xD;
+fuꝫ ꝺat antonio militie ſtipēꝺiuꝫ In</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-06-24T12:39:50.806-04:00</Created>
+        <LastChange>2019-12-05T20:16:02.919+01:00</LastChange>
+        <TranskribusMetadata docId="176322" pageId="6803007" pageNr="139" tsid="20497867" status="IN_PROGRESS" userId="11370" imgUrl="https://files.transkribus.eu/Get?id=YTSXCTAGGOFRHSHVVMFPUNTP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EOEVVOOIHQPBMUHFWBLLSUYN" imageId="4155781"/>
+    </Metadata>
+    <Page imageFilename="ARC_manuscript_1_58R.JPG" imageWidth="3456" imageHeight="5184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1576110952106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="268,1032 268,3864 2503,3864 2503,1032"/>
+            <TextLine id="line_1575573154664_1102" custom="readingOrder {index:0;} rubrication {offset:0; length:6;}">
+                <Coords points="2118,774 2372,774 2372,1179 2118,1179"/>
+                <TextEquiv>
+                    <Unicode>aꝺ nō</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l1" custom="readingOrder {index:1;} textStyle {offset:25; length:4;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="397,1177 490,1177 583,1178 677,1178 770,1178 864,1178 957,1178 1050,1178 1144,1178 1237,1178 1331,1178 1424,1178 1517,1178 1611,1178 1704,1178 1798,1178 1891,1179 1984,1179 2078,1180 2171,1181 2265,1181 2265,1036 2171,1036 2078,1035 1984,1034 1891,1034 1798,1033 1704,1033 1611,1033 1517,1033 1424,1033 1331,1033 1237,1033 1144,1033 1050,1033 957,1033 864,1033 770,1033 677,1033 583,1033 490,1032 397,1032"/>
+                <Baseline points="397,1129 490,1129 583,1130 677,1130 770,1130 864,1130 957,1130 1050,1130 1144,1130 1237,1130 1331,1130 1424,1130 1517,1130 1611,1130 1704,1130 1798,1130 1891,1131 1984,1131 2078,1132 2171,1133 2265,1133"/>
+                <TextEquiv>
+                    <Unicode>Eterna xp̄i muneia apoſto.lo.ꝛuꝫ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="273,1724 380,1719 487,1715 595,1712 702,1709 810,1707 917,1706 1024,1705 1132,1704 1239,1704 1347,1704 1454,1704 1561,1705 1669,1705 1776,1705 1884,1706 1991,1706 2098,1705 2206,1705 2313,1704 2421,1702 2421,1557 2313,1559 2206,1560 2098,1560 1991,1561 1884,1561 1776,1560 1669,1560 1561,1560 1454,1559 1347,1559 1239,1559 1132,1559 1024,1560 917,1561 810,1562 702,1564 595,1567 487,1570 380,1574 273,1579"/>
+                <Baseline points="273,1676 380,1671 487,1667 595,1664 702,1661 810,1659 917,1658 1024,1657 1132,1656 1239,1656 1347,1656 1454,1656 1561,1657 1669,1657 1776,1657 1884,1658 1991,1658 2098,1657 2206,1657 2313,1656 2421,1654"/>
+                <TextEquiv>
+                    <Unicode>glia lauꝺes canentes ꝺebitas letis ca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575573157416_1105" custom="readingOrder {index:3;} rubrication {offset:0; length:14;}">
+                <Coords points="1781,1841 2427,1841 2427,2236 1781,2236"/>
+                <TextEquiv>
+                    <Unicode>ꝺeuno martire:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;} rubrication {offset:13; length:1;}">
+                <Coords points="268,2249 373,2246 478,2243 583,2241 688,2239 793,2238 898,2237 1003,2236 1108,2236 1213,2235 1319,2235 1424,2235 1529,2235 1634,2235 1739,2235 1844,2235 1949,2235 2054,2235 2159,2235 2264,2234 2370,2233 2370,2088 2264,2089 2159,2090 2054,2090 1949,2090 1844,2090 1739,2090 1634,2090 1529,2090 1424,2090 1319,2090 1213,2090 1108,2091 1003,2091 898,2092 793,2093 688,2094 583,2096 478,2098 373,2101 268,2104"/>
+                <Baseline points="268,2201 373,2198 478,2195 583,2193 688,2191 793,2190 898,2189 1003,2188 1108,2188 1213,2187 1319,2187 1424,2187 1529,2187 1634,2187 1739,2187 1844,2187 1949,2187 2054,2187 2159,2187 2264,2186 2370,2185"/>
+                <TextEquiv>
+                    <Unicode>namꝫ mentibꝫ Eccleſiaꝛ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} rubrication {offset:0; length:1;}">
+                <Coords points="318,2785 423,2784 529,2783 635,2782 741,2780 847,2779 953,2777 1059,2774 1165,2772 1271,2770 1377,2767 1482,2765 1588,2762 1694,2760 1800,2758 1906,2756 2012,2754 2118,2752 2224,2751 2330,2750 2436,2750 2436,2605 2330,2605 2224,2606 2118,2607 2012,2609 1906,2611 1800,2613 1694,2615 1588,2617 1482,2620 1377,2622 1271,2625 1165,2627 1059,2629 953,2632 847,2634 741,2635 635,2637 529,2638 423,2639 318,2640"/>
+                <Baseline points="318,2737 423,2736 529,2735 635,2734 741,2732 847,2731 953,2729 1059,2726 1165,2724 1271,2722 1377,2719 1482,2717 1588,2714 1694,2712 1800,2710 1906,2708 2012,2706 2118,2704 2224,2703 2330,2702 2436,2702"/>
+                <TextEquiv>
+                    <Unicode>Deus tuoꝛ milituꝫ ſoꝛs et coꝛona</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="290,3314 399,3318 508,3320 618,3321 727,3321 837,3321 946,3319 1055,3317 1165,3314 1274,3311 1384,3308 1493,3304 1603,3300 1712,3296 1821,3292 1931,3288 2040,3285 2150,3282 2259,3279 2369,3277 2369,3132 2259,3134 2150,3137 2040,3140 1931,3143 1821,3147 1712,3151 1603,3155 1493,3159 1384,3163 1274,3166 1165,3169 1055,3172 946,3174 837,3176 727,3176 618,3176 508,3175 399,3173 290,3169"/>
+                <Baseline points="290,3266 399,3270 508,3272 618,3273 727,3273 837,3273 946,3271 1055,3269 1165,3266 1274,3263 1384,3260 1493,3256 1603,3252 1712,3248 1821,3244 1931,3240 2040,3237 2150,3234 2259,3231 2369,3229"/>
+                <TextEquiv>
+                    <Unicode>pꝛe miuꝫ lauꝺes canētes martiris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1575573187154_1130" custom="readingOrder {index:7;} rubrication {offset:0; length:13;}">
+                <Coords points="2068,3406 2530,3406 2530,3819 2068,3819"/>
+                <TextEquiv>
+                    <Unicode>aꝺ lau ꝺes hꝯ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} rubrication {offset:22; length:1;}">
+                <Coords points="275,3857 383,3860 491,3863 599,3864 708,3864 816,3864 924,3862 1033,3860 1141,3857 1249,3853 1358,3849 1466,3844 1574,3840 1682,3834 1791,3828 1899,3823 2007,3818 2116,3812 2224,3807 2332,3803 2441,3798 2441,3653 2332,3658 2224,3662 2116,3667 2007,3673 1899,3678 1791,3683 1682,3689 1574,3695 1466,3699 1358,3704 1249,3708 1141,3712 1033,3715 924,3717 816,3719 708,3719 599,3719 491,3718 383,3715 275,3712"/>
+                <Baseline points="275,3809 383,3812 491,3815 599,3816 708,3816 816,3816 924,3814 1033,3812 1141,3809 1249,3805 1358,3801 1466,3796 1574,3792 1682,3786 1791,3780 1899,3775 2007,3770 2116,3764 2224,3759 2332,3755 2441,3750"/>
+                <TextEquiv>
+                    <Unicode>abſolue nexu criminis Hic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>aꝺ nō&#xD;
+Eterna xp̄i muneia apoſto.lo.ꝛuꝫ&#xD;
+glia lauꝺes canentes ꝺebitas letis ca&#xD;
+ꝺeuno martire:&#xD;
+namꝫ mentibꝫ Eccleſiaꝛ&#xD;
+Deus tuoꝛ milituꝫ ſoꝛs et coꝛona&#xD;
+pꝛe miuꝫ lauꝺes canētes martiris&#xD;
+aꝺ lau ꝺes hꝯ&#xD;
+abſolue nexu criminis Hic</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
